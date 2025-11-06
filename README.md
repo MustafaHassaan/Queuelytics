@@ -72,5 +72,5 @@ Queuelytics was a small project full of real-world backend challenges. It gave m
 
 ## ✨ Author
        
-- **Developed by:** Mustafa Hassaan 
+- **Developed by : ** Mustafa Hassaan 
 
