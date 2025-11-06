@@ -52,11 +52,22 @@ Queuelytics was a small project full of real-world backend challenges. It gave m
 
 ## 🛠️ Getting Started
 
-### 1. Build and start Docker containers
-      ```bash
-      docker compose up --build
-
-
+### 1. Step 1 
+       Open Terminal Project Path And Build Docker containers
+       docker compose up --build
+       
+### 2. Step 2
+       Select Infrastructure From Package Manager Console And Sign Update-database
+       
+### 3. Step 3
+       Open Browser  http://localhost:8080/swagger/index.html
+              
+### 4. Step 4 
+       Make Sign A New User And Make Login And Take Your Token
+                     
+### 5. Step 5
+       Make Shure Add Token To Authorize To Get Reports 
+       
 ---
 
 ## ✨ Author
