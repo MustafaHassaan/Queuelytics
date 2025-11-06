@@ -39,6 +39,14 @@ Queuelytics was a small project full of real-world backend challenges. It gave m
 ---
 
 ## 🏗️ Architecture
+Queuelytics.sln
+┣ 📁 Api/             → Web API Layer (Controllers + Swagger)
+┣ 📁 ProducerService/ → Worker Service: Reads JSON → Publishes to RabbitMQ
+┣ 📁 ConsumerService/ → Worker Service: Consumes from RabbitMQ → Aggregates → Saves to DB
+┣ 📁 Shared/          → Common Models / DTOs
+┣ 📁 Application/     → Business Logic & Handlers
+┣ 📁 Domain/          → Core Entities
+┗ 📁 Infrastructure/  → EF Core Repositories + RabbitMQ + Redis + DB Migrations
 
 ---
 
