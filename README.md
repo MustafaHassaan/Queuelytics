@@ -56,8 +56,9 @@ Queuelytics was a small project full of real-world backend challenges. It gave m
 ```bash
 docker compose up --build
 
+
 ---
 
 ## ✨ Author
-Developed by Mustafa Hassaan
+      Developed by Mustafa Hassaan
 
