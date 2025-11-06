@@ -40,3 +40,11 @@ Queuelytics was a small project full of real-world backend challenges. It gave m
 
 ## 🏗️ Architecture
 
+---
+
+## 🛠️ Getting Started
+
+### 1. Build and start Docker containers
+```bash
+docker compose up --build
+
