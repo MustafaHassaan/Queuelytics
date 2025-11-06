@@ -2,6 +2,71 @@
 
 **A small but challenging backend system built with .NET 8, RabbitMQ, Redis, and SQL Server, designed to read, aggregate, and report analytics data from multiple sources.**
 
+## 🚀 Overview
+
+Queuelytics was a compact task, but full of interesting challenges. I got the chance to work with tools I hadn’t touched in years — Docker, Redis, and RabbitMQ — and integrate them into a real-world backend system. The project focuses on:
+
+- Reading analytics data from multiple sources (mocked JSON files).
+- Publishing data to a **real message broker** (RabbitMQ).
+- Aggregating the data with a background worker and storing it in SQL Server.
+- Exposing **JWT-secured reporting APIs** for overview and per-page analytics.
+- Using clean architecture principles and separation of concerns.
+
+> ⚡ Even though the task was small, it pushed me to think about reliability, retries, Docker orchestration, and full-stack backend integration.
+
+---
+
+## 📌 Features
+
+- Load electronic invoices in XML format.
+- Digitally sign invoices using a PFX certificate.
+- Submit invoices to the ZATCA platform via API.
+- Display the response from ZATCA.
+- Generate a compliant QR code from invoice data.
+
+
+## 🚀 Overview
+
+Queuelytics was a compact task, but full of interesting challenges. I got the chance to work with tools I hadn’t touched in years — Docker, Redis, and RabbitMQ — and integrate them into a real-world backend system. The project focuses on:
+
+- Reading analytics data from multiple sources (mocked JSON files).
+- Publishing data to a **real message broker** (RabbitMQ).
+- Aggregating the data with a background worker and storing it in SQL Server.
+- Exposing **JWT-secured reporting APIs** for overview and per-page analytics.
+- Using clean architecture principles and separation of concerns.
+
+> ⚡ Even though the task was small, it pushed me to think about reliability, retries, Docker orchestration, and full-stack backend integration.
+
+---
+
+## 🧰 Technologies Used
+
+- C# .NET (Windows Forms)
+- XML Processing
+- Digital Signature (PFX Certificates)
+- HTTP API Integration (ZATCA)
+- QR Code Generation
+
+## ⚙️ How to Use
+
+1. Open the solution in Visual Studio.
+2. Make sure you have a valid `.pfx` digital certificate installed or available locally.
+3. Update the configuration to include:
+   - Path to the certificate.
+   - Certificate password.
+   - ZATCA API endpoints (Sandbox or Production).
+4. Run the application.
+5. Load your invoice XML, sign it, and send it to ZATCA.
+6. View the result directly in the application.
+
+
+
+
+
+# Queuelytics – Web Analytics Data Aggregator
+
+**A small but challenging backend system built with .NET 8, RabbitMQ, Redis, and SQL Server, designed to read, aggregate, and report analytics data from multiple sources.**
+
 ---
 
 ## 🚀 Overview
