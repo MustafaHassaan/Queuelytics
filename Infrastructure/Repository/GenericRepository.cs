@@ -35,13 +35,5 @@ namespace Infrastructure.Repository
         {
             await _Dbs.AddAsync(entity);
         }
-        public void Update(T entity)
-        {
-            _Dbs.Update(entity);
-        }
-        public void Remove(T entity)
-        {
-            _Dbs.Remove(entity);
-        }
     }
 }
