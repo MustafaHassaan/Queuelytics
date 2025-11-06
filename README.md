@@ -107,5 +107,5 @@ Queuelytics may have been a “small” task, but it was packed with real-world 
 
 --
 
-## ✨ Author
-Developed by Mustafa Hassaan
+  ## ✨ Author
+  Developed by Mustafa Hassaan
