@@ -55,7 +55,10 @@
       - "8081:8081"
     networks:
       - app-net
+    volumes:
+      - ./Shared/Data:/Shared/Data
 
 networks:
   app-net:
     driver: bridge
+  
