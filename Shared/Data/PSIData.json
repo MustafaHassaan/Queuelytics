@@ -1,0 +1,7002 @@
+[
+  {
+    "Date": "2025-11-01",
+    "Page": "/wells",
+    "PerformanceScore": 0.79,
+    "LCPms": 2481,
+    "ReceivedAt": "2025-11-01T17:55:20.9116296+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/hacking",
+    "PerformanceScore": 0.6,
+    "LCPms": 3621,
+    "ReceivedAt": "2025-11-01T17:55:20.9116513+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/micronesia/rue",
+    "PerformanceScore": 0.73,
+    "LCPms": 2660,
+    "ReceivedAt": "2025-11-01T17:55:20.9116522+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/mobile",
+    "PerformanceScore": 0.85,
+    "LCPms": 3738,
+    "ReceivedAt": "2025-11-01T17:55:20.9116526+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/virtual/value-added/vertical",
+    "PerformanceScore": 0.79,
+    "LCPms": 3306,
+    "ReceivedAt": "2025-11-01T17:55:20.9116531+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/panel/gb",
+    "PerformanceScore": 0.96,
+    "LCPms": 3250,
+    "ReceivedAt": "2025-11-01T17:55:20.9116545+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/rwanda-franc",
+    "PerformanceScore": 0.63,
+    "LCPms": 2031,
+    "ReceivedAt": "2025-11-01T17:55:20.9116551+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/bahraini-dinar",
+    "PerformanceScore": 0.74,
+    "LCPms": 2981,
+    "ReceivedAt": "2025-11-01T17:55:20.9116558+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/input",
+    "PerformanceScore": 0.88,
+    "LCPms": 3664,
+    "ReceivedAt": "2025-11-01T17:55:20.9116562+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/cfp-franc",
+    "PerformanceScore": 0.91,
+    "LCPms": 1950,
+    "ReceivedAt": "2025-11-01T17:55:20.9116566+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/buckinghamshire/optical",
+    "PerformanceScore": 0.88,
+    "LCPms": 3875,
+    "ReceivedAt": "2025-11-01T17:55:20.911657+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/small-soft-fish/card/even-keeled",
+    "PerformanceScore": 0.79,
+    "LCPms": 3290,
+    "ReceivedAt": "2025-11-01T17:55:20.9116574+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/ford",
+    "PerformanceScore": 0.6,
+    "LCPms": 1891,
+    "ReceivedAt": "2025-11-01T17:55:20.9116578+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/branding/even-keeled/tasty-concrete-pants",
+    "PerformanceScore": 0.78,
+    "LCPms": 1771,
+    "ReceivedAt": "2025-11-01T17:55:20.9116582+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/response",
+    "PerformanceScore": 0.72,
+    "LCPms": 2401,
+    "ReceivedAt": "2025-11-01T17:55:20.9116586+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/wireless",
+    "PerformanceScore": 0.68,
+    "LCPms": 3344,
+    "ReceivedAt": "2025-11-01T17:55:20.911659+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/generic-granite-mouse",
+    "PerformanceScore": 0.95,
+    "LCPms": 3817,
+    "ReceivedAt": "2025-11-01T17:55:20.9116594+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/pines/industrial/quantify",
+    "PerformanceScore": 0.64,
+    "LCPms": 3312,
+    "ReceivedAt": "2025-11-01T17:55:20.9116597+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/generic-plastic-shirt/rustic/calculate",
+    "PerformanceScore": 0.67,
+    "LCPms": 3487,
+    "ReceivedAt": "2025-11-01T17:55:20.9116602+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/cambridgeshire/frozen/alarm",
+    "PerformanceScore": 0.74,
+    "LCPms": 2088,
+    "ReceivedAt": "2025-11-01T17:55:20.9116605+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/seize/manager/small",
+    "PerformanceScore": 0.99,
+    "LCPms": 3395,
+    "ReceivedAt": "2025-11-01T17:55:20.911661+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/planner",
+    "PerformanceScore": 0.74,
+    "LCPms": 2586,
+    "ReceivedAt": "2025-11-01T17:55:20.9116613+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/sms",
+    "PerformanceScore": 0.87,
+    "LCPms": 1607,
+    "ReceivedAt": "2025-11-01T17:55:20.9116618+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/orange/array/instruction-set",
+    "PerformanceScore": 0.64,
+    "LCPms": 1988,
+    "ReceivedAt": "2025-11-01T17:55:20.9116621+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/virtual",
+    "PerformanceScore": 0.78,
+    "LCPms": 2291,
+    "ReceivedAt": "2025-11-01T17:55:20.9116626+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/backing-up/national/refined-steel-bacon",
+    "PerformanceScore": 0.84,
+    "LCPms": 2948,
+    "ReceivedAt": "2025-11-01T17:55:20.9116629+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/rustic-steel-chair/sql/alarm",
+    "PerformanceScore": 0.66,
+    "LCPms": 1893,
+    "ReceivedAt": "2025-11-01T17:55:20.9116635+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/agent/bypassing",
+    "PerformanceScore": 0.78,
+    "LCPms": 2454,
+    "ReceivedAt": "2025-11-01T17:55:20.9116639+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/infrastructure",
+    "PerformanceScore": 0.9,
+    "LCPms": 3026,
+    "ReceivedAt": "2025-11-01T17:55:20.9116643+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/consultant/policy/high-level",
+    "PerformanceScore": 0.91,
+    "LCPms": 3822,
+    "ReceivedAt": "2025-11-01T17:55:20.9116646+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/virtual/ergonomic-metal-pants/buckinghamshire",
+    "PerformanceScore": 0.89,
+    "LCPms": 3812,
+    "ReceivedAt": "2025-11-01T17:55:20.9116651+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/deposit/calculating/fantastic-frozen-chair",
+    "PerformanceScore": 0.87,
+    "LCPms": 2847,
+    "ReceivedAt": "2025-11-01T17:55:20.9116655+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/css",
+    "PerformanceScore": 0.79,
+    "LCPms": 3245,
+    "ReceivedAt": "2025-11-01T17:55:20.911666+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/best-of-breed/models",
+    "PerformanceScore": 0.86,
+    "LCPms": 2916,
+    "ReceivedAt": "2025-11-01T17:55:20.9116664+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/customized/dominican-republic",
+    "PerformanceScore": 0.89,
+    "LCPms": 3617,
+    "ReceivedAt": "2025-11-01T17:55:20.9116669+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/refined-frozen-chicken",
+    "PerformanceScore": 0.92,
+    "LCPms": 2319,
+    "ReceivedAt": "2025-11-01T17:55:20.9116672+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/intelligent-metal-chicken/savings-account",
+    "PerformanceScore": 0.91,
+    "LCPms": 1529,
+    "ReceivedAt": "2025-11-01T17:55:20.9116676+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/lithuanian-litas/ubiquitous/michigan",
+    "PerformanceScore": 0.64,
+    "LCPms": 2855,
+    "ReceivedAt": "2025-11-01T17:55:20.911668+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/cambridgeshire/prairie/turkish-lira",
+    "PerformanceScore": 0.68,
+    "LCPms": 3308,
+    "ReceivedAt": "2025-11-01T17:55:20.9116684+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/licensed-metal-chips",
+    "PerformanceScore": 0.6,
+    "LCPms": 2034,
+    "ReceivedAt": "2025-11-01T17:55:20.9116688+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/wall/electronics--sports",
+    "PerformanceScore": 0.97,
+    "LCPms": 2223,
+    "ReceivedAt": "2025-11-01T17:55:20.9116692+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/balanced",
+    "PerformanceScore": 0.67,
+    "LCPms": 3395,
+    "ReceivedAt": "2025-11-01T17:55:20.9116696+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/liaison/gorgeous",
+    "PerformanceScore": 0.71,
+    "LCPms": 2337,
+    "ReceivedAt": "2025-11-01T17:55:20.91167+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/central/program/auto-loan-account",
+    "PerformanceScore": 0.68,
+    "LCPms": 1785,
+    "ReceivedAt": "2025-11-01T17:55:20.9116703+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/pink/247/orchestration",
+    "PerformanceScore": 0.64,
+    "LCPms": 3860,
+    "ReceivedAt": "2025-11-01T17:55:20.9116708+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/practical",
+    "PerformanceScore": 0.88,
+    "LCPms": 2775,
+    "ReceivedAt": "2025-11-01T17:55:20.9116711+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/money-market-account/money-market-account",
+    "PerformanceScore": 0.6,
+    "LCPms": 2825,
+    "ReceivedAt": "2025-11-01T17:55:20.911672+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/rustic-fresh-bike/payment",
+    "PerformanceScore": 1,
+    "LCPms": 1905,
+    "ReceivedAt": "2025-11-01T17:55:20.9116724+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/road/compress/fantastic-frozen-hat",
+    "PerformanceScore": 0.72,
+    "LCPms": 3107,
+    "ReceivedAt": "2025-11-01T17:55:20.9116728+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/nebraska/ergonomic-concrete-chair",
+    "PerformanceScore": 0.93,
+    "LCPms": 2950,
+    "ReceivedAt": "2025-11-01T17:55:20.9116731+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/payment/transmitting",
+    "PerformanceScore": 0.7,
+    "LCPms": 1551,
+    "ReceivedAt": "2025-11-01T17:55:20.9116736+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/index/back-end",
+    "PerformanceScore": 0.9,
+    "LCPms": 2740,
+    "ReceivedAt": "2025-11-01T17:55:20.9116739+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/monitor/applications",
+    "PerformanceScore": 0.76,
+    "LCPms": 2597,
+    "ReceivedAt": "2025-11-01T17:55:20.9116744+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/credit-card-account/handmade-wooden-tuna",
+    "PerformanceScore": 0.81,
+    "LCPms": 2655,
+    "ReceivedAt": "2025-11-01T17:55:20.9116747+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/facilitator/tcp/marketing",
+    "PerformanceScore": 1,
+    "LCPms": 2896,
+    "ReceivedAt": "2025-11-01T17:55:20.9116752+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/assurance/human/kansas",
+    "PerformanceScore": 0.65,
+    "LCPms": 1791,
+    "ReceivedAt": "2025-11-01T17:55:20.9116755+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/real-time/avon",
+    "PerformanceScore": 0.73,
+    "LCPms": 2495,
+    "ReceivedAt": "2025-11-01T17:55:20.911676+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/parsing/orchestrator/metrics",
+    "PerformanceScore": 0.64,
+    "LCPms": 3561,
+    "ReceivedAt": "2025-11-01T17:55:20.9116764+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/georgia",
+    "PerformanceScore": 0.62,
+    "LCPms": 3720,
+    "ReceivedAt": "2025-11-01T17:55:20.9116768+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/personal-loan-account/polarised/utilize",
+    "PerformanceScore": 0.96,
+    "LCPms": 2537,
+    "ReceivedAt": "2025-11-01T17:55:20.9116771+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/zloty/compressing",
+    "PerformanceScore": 0.83,
+    "LCPms": 3544,
+    "ReceivedAt": "2025-11-01T17:55:20.9116776+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/turn-key/extend",
+    "PerformanceScore": 0.73,
+    "LCPms": 2132,
+    "ReceivedAt": "2025-11-01T17:55:20.9116779+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/dominican-peso/licensed-cotton-pizza",
+    "PerformanceScore": 0.75,
+    "LCPms": 1503,
+    "ReceivedAt": "2025-11-01T17:55:20.9116787+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/vortals/licensed-concrete-ball/national",
+    "PerformanceScore": 0.72,
+    "LCPms": 3652,
+    "ReceivedAt": "2025-11-01T17:55:20.911679+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/program",
+    "PerformanceScore": 0.89,
+    "LCPms": 2377,
+    "ReceivedAt": "2025-11-01T17:55:20.9116795+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/copy/lavender/port",
+    "PerformanceScore": 0.9,
+    "LCPms": 3203,
+    "ReceivedAt": "2025-11-01T17:55:20.9116798+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/investor/lime",
+    "PerformanceScore": 0.74,
+    "LCPms": 2515,
+    "ReceivedAt": "2025-11-01T17:55:20.9116802+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/intelligent",
+    "PerformanceScore": 0.94,
+    "LCPms": 3212,
+    "ReceivedAt": "2025-11-01T17:55:20.9116806+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/rubber/awesome-cotton-sausages",
+    "PerformanceScore": 0.96,
+    "LCPms": 2152,
+    "ReceivedAt": "2025-11-01T17:55:20.911681+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/louisiana/fields",
+    "PerformanceScore": 0.62,
+    "LCPms": 3123,
+    "ReceivedAt": "2025-11-01T17:55:20.9116813+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/customer",
+    "PerformanceScore": 0.86,
+    "LCPms": 2571,
+    "ReceivedAt": "2025-11-01T17:55:20.9116818+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/kentucky/revolutionary",
+    "PerformanceScore": 0.79,
+    "LCPms": 3990,
+    "ReceivedAt": "2025-11-01T17:55:20.9116821+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/international/strategize",
+    "PerformanceScore": 0.65,
+    "LCPms": 3586,
+    "ReceivedAt": "2025-11-01T17:55:20.9116825+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/non-volatile/data/graphical-user-interface",
+    "PerformanceScore": 0.99,
+    "LCPms": 2681,
+    "ReceivedAt": "2025-11-01T17:55:20.9116829+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/checking-account/district",
+    "PerformanceScore": 0.98,
+    "LCPms": 2987,
+    "ReceivedAt": "2025-11-01T17:55:20.9116833+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/senior/concrete/withdrawal",
+    "PerformanceScore": 0.86,
+    "LCPms": 2426,
+    "ReceivedAt": "2025-11-01T17:55:20.9116837+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/hryvnia",
+    "PerformanceScore": 0.65,
+    "LCPms": 2001,
+    "ReceivedAt": "2025-11-01T17:55:20.9116841+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/home-loan-account/unbranded-soft-soap/cambridgeshire",
+    "PerformanceScore": 0.8,
+    "LCPms": 1519,
+    "ReceivedAt": "2025-11-01T17:55:20.9116844+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/european-monetary-unit-e.m.u.-6/credit-card-account/ivory",
+    "PerformanceScore": 0.71,
+    "LCPms": 1898,
+    "ReceivedAt": "2025-11-01T17:55:20.9116848+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/engineer/haptic/open-architecture",
+    "PerformanceScore": 0.64,
+    "LCPms": 2148,
+    "ReceivedAt": "2025-11-01T17:55:20.9116852+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/proactive/payment",
+    "PerformanceScore": 0.66,
+    "LCPms": 3797,
+    "ReceivedAt": "2025-11-01T17:55:20.9116857+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/libyan-dinar",
+    "PerformanceScore": 0.63,
+    "LCPms": 2362,
+    "ReceivedAt": "2025-11-01T17:55:20.911686+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/proactive",
+    "PerformanceScore": 0.9,
+    "LCPms": 2893,
+    "ReceivedAt": "2025-11-01T17:55:20.9116864+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/wooden/circuit",
+    "PerformanceScore": 0.7,
+    "LCPms": 2184,
+    "ReceivedAt": "2025-11-01T17:55:20.9116867+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/ergonomic-frozen-bike/mission",
+    "PerformanceScore": 0.83,
+    "LCPms": 3594,
+    "ReceivedAt": "2025-11-01T17:55:20.9116872+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/small-rubber-bike/unbranded-metal-hat/pricing-structure",
+    "PerformanceScore": 0.86,
+    "LCPms": 3794,
+    "ReceivedAt": "2025-11-01T17:55:20.9116876+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/web-enabled/metrics/mountain",
+    "PerformanceScore": 0.68,
+    "LCPms": 2846,
+    "ReceivedAt": "2025-11-01T17:55:20.911688+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/operations",
+    "PerformanceScore": 0.93,
+    "LCPms": 3581,
+    "ReceivedAt": "2025-11-01T17:55:20.9116888+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/ergonomic-granite-car/paradigm",
+    "PerformanceScore": 0.96,
+    "LCPms": 2732,
+    "ReceivedAt": "2025-11-01T17:55:20.9116892+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/configurable/service-desk/aruban-guilder",
+    "PerformanceScore": 0.77,
+    "LCPms": 2185,
+    "ReceivedAt": "2025-11-01T17:55:20.9116895+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/handcrafted-metal-pants/developer/mall",
+    "PerformanceScore": 0.79,
+    "LCPms": 3003,
+    "ReceivedAt": "2025-11-01T17:55:20.91169+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/refined-frozen-table",
+    "PerformanceScore": 0.93,
+    "LCPms": 2975,
+    "ReceivedAt": "2025-11-01T17:55:20.9116903+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/dobra/facilitator/jordanian-dinar",
+    "PerformanceScore": 0.93,
+    "LCPms": 3277,
+    "ReceivedAt": "2025-11-01T17:55:20.9116907+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/compress/enterprise/berkshire",
+    "PerformanceScore": 0.68,
+    "LCPms": 1657,
+    "ReceivedAt": "2025-11-01T17:55:20.9116911+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/wooden/national/automated",
+    "PerformanceScore": 0.71,
+    "LCPms": 1787,
+    "ReceivedAt": "2025-11-01T17:55:20.9116915+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/roads/pci",
+    "PerformanceScore": 0.63,
+    "LCPms": 2372,
+    "ReceivedAt": "2025-11-01T17:55:20.9116918+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/granite/mayotte/function",
+    "PerformanceScore": 0.98,
+    "LCPms": 2540,
+    "ReceivedAt": "2025-11-01T17:55:20.9116923+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/handmade-rubber-bike/paradigms",
+    "PerformanceScore": 0.76,
+    "LCPms": 2515,
+    "ReceivedAt": "2025-11-01T17:55:20.9116926+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/multi-byte/branding/metal",
+    "PerformanceScore": 0.61,
+    "LCPms": 2839,
+    "ReceivedAt": "2025-11-01T17:55:20.9116931+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/land/vertical/baby",
+    "PerformanceScore": 0.77,
+    "LCPms": 2645,
+    "ReceivedAt": "2025-11-01T17:55:20.9116935+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/24365/enhanced/metal",
+    "PerformanceScore": 0.89,
+    "LCPms": 2659,
+    "ReceivedAt": "2025-11-01T17:55:20.911694+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/ivory",
+    "PerformanceScore": 0.99,
+    "LCPms": 2854,
+    "ReceivedAt": "2025-11-01T17:55:20.9116944+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/idaho/human/mountain",
+    "PerformanceScore": 0.81,
+    "LCPms": 2624,
+    "ReceivedAt": "2025-11-01T17:55:20.9116949+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/red/sleek/central",
+    "PerformanceScore": 0.72,
+    "LCPms": 2644,
+    "ReceivedAt": "2025-11-01T17:55:20.9116953+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/unions/monitor",
+    "PerformanceScore": 0.6,
+    "LCPms": 2053,
+    "ReceivedAt": "2025-11-01T17:55:20.9116957+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/back-end/bluetooth/bluetooth",
+    "PerformanceScore": 0.87,
+    "LCPms": 1919,
+    "ReceivedAt": "2025-11-01T17:55:20.911696+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/utilize/stream",
+    "PerformanceScore": 0.89,
+    "LCPms": 2658,
+    "ReceivedAt": "2025-11-01T17:55:20.9116965+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/credit-card-account/fuchsia",
+    "PerformanceScore": 0.9,
+    "LCPms": 3869,
+    "ReceivedAt": "2025-11-01T17:55:20.9116969+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/circuit",
+    "PerformanceScore": 0.88,
+    "LCPms": 3252,
+    "ReceivedAt": "2025-11-01T17:55:20.9116973+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/deposit/wooden/producer",
+    "PerformanceScore": 0.79,
+    "LCPms": 2242,
+    "ReceivedAt": "2025-11-01T17:55:20.9116976+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/wireless/streamlined/capacitor",
+    "PerformanceScore": 0.71,
+    "LCPms": 3954,
+    "ReceivedAt": "2025-11-01T17:55:20.9116981+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/metal/principal/future",
+    "PerformanceScore": 1,
+    "LCPms": 3487,
+    "ReceivedAt": "2025-11-01T17:55:20.9116984+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/customer-loyalty",
+    "PerformanceScore": 0.63,
+    "LCPms": 1769,
+    "ReceivedAt": "2025-11-01T17:55:20.9116989+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/revolutionary",
+    "PerformanceScore": 0.85,
+    "LCPms": 2704,
+    "ReceivedAt": "2025-11-01T17:55:20.9116992+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/coves/buckinghamshire",
+    "PerformanceScore": 0.64,
+    "LCPms": 3190,
+    "ReceivedAt": "2025-11-01T17:55:20.9116996+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/access",
+    "PerformanceScore": 0.66,
+    "LCPms": 3075,
+    "ReceivedAt": "2025-11-01T17:55:20.9117+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/colombia/personal-loan-account/savings-account",
+    "PerformanceScore": 0.69,
+    "LCPms": 3686,
+    "ReceivedAt": "2025-11-01T17:55:20.9117004+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/bedfordshire/libyan-dinar",
+    "PerformanceScore": 0.9,
+    "LCPms": 2600,
+    "ReceivedAt": "2025-11-01T17:55:20.9117008+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/handcrafted-metal-shoes",
+    "PerformanceScore": 0.79,
+    "LCPms": 2504,
+    "ReceivedAt": "2025-11-01T17:55:20.9117012+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/circuit/bandwidth",
+    "PerformanceScore": 1,
+    "LCPms": 3861,
+    "ReceivedAt": "2025-11-01T17:55:20.9117017+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/purple/legacy/alaska",
+    "PerformanceScore": 0.72,
+    "LCPms": 2783,
+    "ReceivedAt": "2025-11-01T17:55:20.9117021+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/electronics/logistical/initiative",
+    "PerformanceScore": 0.63,
+    "LCPms": 3775,
+    "ReceivedAt": "2025-11-01T17:55:20.9117024+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/handcrafted-rubber-car/transmitting/personal-loan-account",
+    "PerformanceScore": 0.8,
+    "LCPms": 3521,
+    "ReceivedAt": "2025-11-01T17:55:20.9117029+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/checking-account/cfa-franc-bceao",
+    "PerformanceScore": 0.7,
+    "LCPms": 1655,
+    "ReceivedAt": "2025-11-01T17:55:20.9117032+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/interactions/steel/jbod",
+    "PerformanceScore": 0.69,
+    "LCPms": 3408,
+    "ReceivedAt": "2025-11-01T17:55:20.9117037+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/licensed-cotton-tuna/indiana",
+    "PerformanceScore": 0.73,
+    "LCPms": 1707,
+    "ReceivedAt": "2025-11-01T17:55:20.911704+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/channels",
+    "PerformanceScore": 0.63,
+    "LCPms": 1629,
+    "ReceivedAt": "2025-11-01T17:55:20.9117044+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/personal-loan-account/practical/computers-kids--home",
+    "PerformanceScore": 0.98,
+    "LCPms": 2709,
+    "ReceivedAt": "2025-11-01T17:55:20.9117048+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/copying/smtp",
+    "PerformanceScore": 0.79,
+    "LCPms": 2231,
+    "ReceivedAt": "2025-11-01T17:55:20.9117057+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/dobra/cyan/bypassing",
+    "PerformanceScore": 0.81,
+    "LCPms": 2283,
+    "ReceivedAt": "2025-11-01T17:55:20.911706+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/bandwidth",
+    "PerformanceScore": 0.86,
+    "LCPms": 1589,
+    "ReceivedAt": "2025-11-01T17:55:20.9117065+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/automotive/sleek",
+    "PerformanceScore": 0.86,
+    "LCPms": 1865,
+    "ReceivedAt": "2025-11-01T17:55:20.9117068+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/foreground/concrete/group",
+    "PerformanceScore": 0.69,
+    "LCPms": 2304,
+    "ReceivedAt": "2025-11-01T17:55:20.9117073+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/ssl/extranet/automotive--industrial",
+    "PerformanceScore": 0.66,
+    "LCPms": 3131,
+    "ReceivedAt": "2025-11-01T17:55:20.9117076+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/context-sensitive",
+    "PerformanceScore": 0.92,
+    "LCPms": 3334,
+    "ReceivedAt": "2025-11-01T17:55:20.9117081+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/exe/mount/district",
+    "PerformanceScore": 0.62,
+    "LCPms": 2384,
+    "ReceivedAt": "2025-11-01T17:55:20.9117084+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/computers-books--automotive",
+    "PerformanceScore": 0.71,
+    "LCPms": 1988,
+    "ReceivedAt": "2025-11-01T17:55:20.9117091+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/calculate/withdrawal/ferry",
+    "PerformanceScore": 0.69,
+    "LCPms": 2184,
+    "ReceivedAt": "2025-11-01T17:55:20.9117094+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/payment/integrate/land",
+    "PerformanceScore": 0.89,
+    "LCPms": 3520,
+    "ReceivedAt": "2025-11-01T17:55:20.9117099+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/investment-account/orchestrator",
+    "PerformanceScore": 0.79,
+    "LCPms": 1606,
+    "ReceivedAt": "2025-11-01T17:55:20.9117102+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/tasty/assurance",
+    "PerformanceScore": 0.66,
+    "LCPms": 2435,
+    "ReceivedAt": "2025-11-01T17:55:20.9117106+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/new-caledonia/real-time",
+    "PerformanceScore": 0.66,
+    "LCPms": 2226,
+    "ReceivedAt": "2025-11-01T17:55:20.911711+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/director/rustic-rubber-shoes/fantastic-rubber-salad",
+    "PerformanceScore": 0.83,
+    "LCPms": 2759,
+    "ReceivedAt": "2025-11-01T17:55:20.9117114+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/withdrawal/borders/monetize",
+    "PerformanceScore": 1,
+    "LCPms": 1610,
+    "ReceivedAt": "2025-11-01T17:55:20.9117118+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/unbranded-concrete-keyboard",
+    "PerformanceScore": 0.82,
+    "LCPms": 2759,
+    "ReceivedAt": "2025-11-01T17:55:20.9117122+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/interface/home-loan-account",
+    "PerformanceScore": 0.97,
+    "LCPms": 3269,
+    "ReceivedAt": "2025-11-01T17:55:20.9117125+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/synthesizing",
+    "PerformanceScore": 0.92,
+    "LCPms": 2192,
+    "ReceivedAt": "2025-11-01T17:55:20.9117129+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/scsi/west-virginia",
+    "PerformanceScore": 0.93,
+    "LCPms": 2177,
+    "ReceivedAt": "2025-11-01T17:55:20.9117133+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/mindshare",
+    "PerformanceScore": 0.93,
+    "LCPms": 1587,
+    "ReceivedAt": "2025-11-01T17:55:20.9117137+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/microchip/united-kingdom/granite",
+    "PerformanceScore": 0.68,
+    "LCPms": 3042,
+    "ReceivedAt": "2025-11-01T17:55:20.911714+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/station/port/exe",
+    "PerformanceScore": 0.63,
+    "LCPms": 1939,
+    "ReceivedAt": "2025-11-01T17:55:20.9117145+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/global/agp/saint-kitts-and-nevis",
+    "PerformanceScore": 0.83,
+    "LCPms": 2368,
+    "ReceivedAt": "2025-11-01T17:55:20.9117148+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/ram/out-of-the-box",
+    "PerformanceScore": 0.92,
+    "LCPms": 1738,
+    "ReceivedAt": "2025-11-01T17:55:20.9117152+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/brand",
+    "PerformanceScore": 0.98,
+    "LCPms": 2629,
+    "ReceivedAt": "2025-11-01T17:55:20.9117156+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/bedfordshire/e-business/auxiliary",
+    "PerformanceScore": 0.61,
+    "LCPms": 2647,
+    "ReceivedAt": "2025-11-01T17:55:20.911716+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/sharable/avon/pixel",
+    "PerformanceScore": 0.75,
+    "LCPms": 3049,
+    "ReceivedAt": "2025-11-01T17:55:20.9117166+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/hacking/transmitting/horizontal",
+    "PerformanceScore": 0.98,
+    "LCPms": 2615,
+    "ReceivedAt": "2025-11-01T17:55:20.9117171+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/incredible-plastic-pants/movies--clothing",
+    "PerformanceScore": 0.91,
+    "LCPms": 2034,
+    "ReceivedAt": "2025-11-01T17:55:20.9117174+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/mint-green",
+    "PerformanceScore": 0.94,
+    "LCPms": 2222,
+    "ReceivedAt": "2025-11-01T17:55:20.9117178+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/money-market-account/context-sensitive",
+    "PerformanceScore": 0.85,
+    "LCPms": 1649,
+    "ReceivedAt": "2025-11-01T17:55:20.9117181+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/unbranded/online",
+    "PerformanceScore": 0.86,
+    "LCPms": 2650,
+    "ReceivedAt": "2025-11-01T17:55:20.9117185+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/cambridgeshire/content/chief",
+    "PerformanceScore": 0.69,
+    "LCPms": 2891,
+    "ReceivedAt": "2025-11-01T17:55:20.9117188+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/array/savings-account/frozen",
+    "PerformanceScore": 0.72,
+    "LCPms": 3112,
+    "ReceivedAt": "2025-11-01T17:55:20.9117193+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/handcrafted-fresh-bacon/rhode-island",
+    "PerformanceScore": 0.88,
+    "LCPms": 3588,
+    "ReceivedAt": "2025-11-01T17:55:20.9117197+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/rustic-granite-chicken",
+    "PerformanceScore": 0.86,
+    "LCPms": 3201,
+    "ReceivedAt": "2025-11-01T17:55:20.9117201+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/outdoors",
+    "PerformanceScore": 0.89,
+    "LCPms": 2472,
+    "ReceivedAt": "2025-11-01T17:55:20.9117205+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/stravenue/baby/fantastic",
+    "PerformanceScore": 0.74,
+    "LCPms": 1842,
+    "ReceivedAt": "2025-11-01T17:55:20.9117209+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/auxiliary/electronics--beauty/berkshire",
+    "PerformanceScore": 0.74,
+    "LCPms": 3806,
+    "ReceivedAt": "2025-11-01T17:55:20.9117213+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/generic-fresh-computer",
+    "PerformanceScore": 0.95,
+    "LCPms": 2034,
+    "ReceivedAt": "2025-11-01T17:55:20.9117217+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/new-york/ranch/gold",
+    "PerformanceScore": 0.76,
+    "LCPms": 2650,
+    "ReceivedAt": "2025-11-01T17:55:20.9117225+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/matrix",
+    "PerformanceScore": 0.83,
+    "LCPms": 1607,
+    "ReceivedAt": "2025-11-01T17:55:20.911723+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/san-marino/ubiquitous",
+    "PerformanceScore": 0.87,
+    "LCPms": 2136,
+    "ReceivedAt": "2025-11-01T17:55:20.9117233+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/247",
+    "PerformanceScore": 0.68,
+    "LCPms": 1765,
+    "ReceivedAt": "2025-11-01T17:55:20.9117237+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/portals/tasty-steel-chicken/ergonomic-wooden-ball",
+    "PerformanceScore": 0.74,
+    "LCPms": 2916,
+    "ReceivedAt": "2025-11-01T17:55:20.911724+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/unbranded-granite-shoes",
+    "PerformanceScore": 0.76,
+    "LCPms": 3899,
+    "ReceivedAt": "2025-11-01T17:55:20.9117245+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/thx/svalbard--jan-mayen-islands/payment",
+    "PerformanceScore": 0.69,
+    "LCPms": 3899,
+    "ReceivedAt": "2025-11-01T17:55:20.9117248+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/tajikistan/fantastic/naira",
+    "PerformanceScore": 0.84,
+    "LCPms": 2845,
+    "ReceivedAt": "2025-11-01T17:55:20.9117252+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/visionary/wireless",
+    "PerformanceScore": 0.72,
+    "LCPms": 2212,
+    "ReceivedAt": "2025-11-01T17:55:20.9117256+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/generic-rubber-mouse",
+    "PerformanceScore": 0.63,
+    "LCPms": 1757,
+    "ReceivedAt": "2025-11-01T17:55:20.9117261+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/hacking/input",
+    "PerformanceScore": 0.88,
+    "LCPms": 3442,
+    "ReceivedAt": "2025-11-01T17:55:20.9117264+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/bypassing/maroon",
+    "PerformanceScore": 0.69,
+    "LCPms": 3704,
+    "ReceivedAt": "2025-11-01T17:55:20.9117269+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/sleek/christmas-island",
+    "PerformanceScore": 0.73,
+    "LCPms": 2394,
+    "ReceivedAt": "2025-11-01T17:55:20.9117272+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/refined",
+    "PerformanceScore": 0.85,
+    "LCPms": 2191,
+    "ReceivedAt": "2025-11-01T17:55:20.9117276+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/intelligent-fresh-shoes/specialist/river",
+    "PerformanceScore": 0.89,
+    "LCPms": 3209,
+    "ReceivedAt": "2025-11-01T17:55:20.9117279+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/compatible",
+    "PerformanceScore": 0.73,
+    "LCPms": 2830,
+    "ReceivedAt": "2025-11-01T17:55:20.9117284+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/24-hour",
+    "PerformanceScore": 0.79,
+    "LCPms": 2081,
+    "ReceivedAt": "2025-11-01T17:55:20.9117287+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/alley",
+    "PerformanceScore": 0.61,
+    "LCPms": 1875,
+    "ReceivedAt": "2025-11-01T17:55:20.9117291+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/gorgeous-granite-keyboard/program",
+    "PerformanceScore": 0.95,
+    "LCPms": 1563,
+    "ReceivedAt": "2025-11-01T17:55:20.9117294+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/avenue/handmade",
+    "PerformanceScore": 0.92,
+    "LCPms": 2726,
+    "ReceivedAt": "2025-11-01T17:55:20.9117299+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/parks",
+    "PerformanceScore": 0.9,
+    "LCPms": 3459,
+    "ReceivedAt": "2025-11-01T17:55:20.9117302+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/el-salvador-colon",
+    "PerformanceScore": 0.96,
+    "LCPms": 3004,
+    "ReceivedAt": "2025-11-01T17:55:20.9117307+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/intelligent-concrete-fish/credit-card-account/games-home--outdoors",
+    "PerformanceScore": 0.73,
+    "LCPms": 2277,
+    "ReceivedAt": "2025-11-01T17:55:20.911731+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/land",
+    "PerformanceScore": 0.82,
+    "LCPms": 2215,
+    "ReceivedAt": "2025-11-01T17:55:20.9117314+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/lead/maximize/singapore-dollar",
+    "PerformanceScore": 0.94,
+    "LCPms": 3012,
+    "ReceivedAt": "2025-11-01T17:55:20.911732+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/workforce/multi-byte",
+    "PerformanceScore": 0.71,
+    "LCPms": 3485,
+    "ReceivedAt": "2025-11-01T17:55:20.9117324+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/sensor/optical",
+    "PerformanceScore": 0.61,
+    "LCPms": 2747,
+    "ReceivedAt": "2025-11-01T17:55:20.9117327+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/niches/director/communications",
+    "PerformanceScore": 0.67,
+    "LCPms": 2909,
+    "ReceivedAt": "2025-11-01T17:55:20.9117332+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/division/paradigms",
+    "PerformanceScore": 0.7,
+    "LCPms": 2266,
+    "ReceivedAt": "2025-11-01T17:55:20.9117335+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/rustic",
+    "PerformanceScore": 0.85,
+    "LCPms": 3310,
+    "ReceivedAt": "2025-11-01T17:55:20.911734+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/schemas/product",
+    "PerformanceScore": 0.77,
+    "LCPms": 3614,
+    "ReceivedAt": "2025-11-01T17:55:20.9117343+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/png/cape-verde/revolutionary",
+    "PerformanceScore": 0.63,
+    "LCPms": 2409,
+    "ReceivedAt": "2025-11-01T17:55:20.9117347+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/engineer",
+    "PerformanceScore": 0.71,
+    "LCPms": 3308,
+    "ReceivedAt": "2025-11-01T17:55:20.911735+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/bedfordshire/reciprocal/new-mexico",
+    "PerformanceScore": 0.95,
+    "LCPms": 2613,
+    "ReceivedAt": "2025-11-01T17:55:20.9117354+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/bypass/park",
+    "PerformanceScore": 0.82,
+    "LCPms": 2390,
+    "ReceivedAt": "2025-11-01T17:55:20.9117358+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/rich/quality/deposit",
+    "PerformanceScore": 0.91,
+    "LCPms": 2705,
+    "ReceivedAt": "2025-11-01T17:55:20.9117362+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/ergonomic/international",
+    "PerformanceScore": 0.93,
+    "LCPms": 2784,
+    "ReceivedAt": "2025-11-01T17:55:20.9117365+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/courts/circuit",
+    "PerformanceScore": 0.89,
+    "LCPms": 1963,
+    "ReceivedAt": "2025-11-01T17:55:20.911737+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/creative/transmit",
+    "PerformanceScore": 0.68,
+    "LCPms": 2680,
+    "ReceivedAt": "2025-11-01T17:55:20.9117373+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/compress/soft",
+    "PerformanceScore": 0.64,
+    "LCPms": 2975,
+    "ReceivedAt": "2025-11-01T17:55:20.9117378+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/grey/withdrawal/specialist",
+    "PerformanceScore": 0.88,
+    "LCPms": 3980,
+    "ReceivedAt": "2025-11-01T17:55:20.9117382+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/avon",
+    "PerformanceScore": 0.66,
+    "LCPms": 1587,
+    "ReceivedAt": "2025-11-01T17:55:20.911739+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/mount/incredible-concrete-keyboard",
+    "PerformanceScore": 0.83,
+    "LCPms": 3128,
+    "ReceivedAt": "2025-11-01T17:55:20.9117396+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/tasty-cotton-table",
+    "PerformanceScore": 0.97,
+    "LCPms": 3342,
+    "ReceivedAt": "2025-11-01T17:55:20.91174+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/compress/personal-loan-account/gorgeous-rubber-chair",
+    "PerformanceScore": 0.96,
+    "LCPms": 1694,
+    "ReceivedAt": "2025-11-01T17:55:20.9117403+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/computers--outdoors/berkshire/shores",
+    "PerformanceScore": 0.96,
+    "LCPms": 2262,
+    "ReceivedAt": "2025-11-01T17:55:20.9117408+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/handcrafted-steel-chair/rhode-island/program",
+    "PerformanceScore": 0.97,
+    "LCPms": 3573,
+    "ReceivedAt": "2025-11-01T17:55:20.9117412+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/mobile/personal-loan-account/industrial-computers--shoes",
+    "PerformanceScore": 0.77,
+    "LCPms": 1842,
+    "ReceivedAt": "2025-11-01T17:55:20.9117416+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/buckinghamshire/granite",
+    "PerformanceScore": 0.86,
+    "LCPms": 1964,
+    "ReceivedAt": "2025-11-01T17:55:20.9117419+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/infrastructures/json",
+    "PerformanceScore": 0.77,
+    "LCPms": 3026,
+    "ReceivedAt": "2025-11-01T17:55:20.9117424+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/web-services/back-end/kenyan-shilling",
+    "PerformanceScore": 0.78,
+    "LCPms": 2026,
+    "ReceivedAt": "2025-11-01T17:55:20.9117427+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/web-enabled",
+    "PerformanceScore": 0.68,
+    "LCPms": 1589,
+    "ReceivedAt": "2025-11-01T17:55:20.9117431+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/grey/violet",
+    "PerformanceScore": 0.65,
+    "LCPms": 2910,
+    "ReceivedAt": "2025-11-01T17:55:20.9117434+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/intranet/united-states-minor-outlying-islands",
+    "PerformanceScore": 0.88,
+    "LCPms": 1578,
+    "ReceivedAt": "2025-11-01T17:55:20.9117439+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/solid-state/personal-loan-account/fantastic",
+    "PerformanceScore": 0.9,
+    "LCPms": 2065,
+    "ReceivedAt": "2025-11-01T17:55:20.9117442+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/out-of-the-box",
+    "PerformanceScore": 0.82,
+    "LCPms": 1640,
+    "ReceivedAt": "2025-11-01T17:55:20.9117446+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/island/implementation/productize",
+    "PerformanceScore": 0.75,
+    "LCPms": 3257,
+    "ReceivedAt": "2025-11-01T17:55:20.9117449+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/total/communities/technician",
+    "PerformanceScore": 0.66,
+    "LCPms": 3740,
+    "ReceivedAt": "2025-11-01T17:55:20.9117454+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/moratorium/front-line/home-loan-account",
+    "PerformanceScore": 0.8,
+    "LCPms": 1542,
+    "ReceivedAt": "2025-11-01T17:55:20.9117457+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/frozen/representative",
+    "PerformanceScore": 0.82,
+    "LCPms": 2085,
+    "ReceivedAt": "2025-11-01T17:55:20.9117461+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/investment-account",
+    "PerformanceScore": 0.99,
+    "LCPms": 2206,
+    "ReceivedAt": "2025-11-01T17:55:20.9117465+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/officer/content/rustic-cotton-mouse",
+    "PerformanceScore": 0.79,
+    "LCPms": 2196,
+    "ReceivedAt": "2025-11-01T17:55:20.911747+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/optical/fuchsia",
+    "PerformanceScore": 0.6,
+    "LCPms": 3481,
+    "ReceivedAt": "2025-11-01T17:55:20.9117473+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/configuration",
+    "PerformanceScore": 0.75,
+    "LCPms": 1617,
+    "ReceivedAt": "2025-11-01T17:55:20.9117477+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/handcrafted/e-commerce/functionality",
+    "PerformanceScore": 0.67,
+    "LCPms": 2762,
+    "ReceivedAt": "2025-11-01T17:55:20.911748+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/lead",
+    "PerformanceScore": 0.94,
+    "LCPms": 3853,
+    "ReceivedAt": "2025-11-01T17:55:20.9117485+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/steel/outdoors-movies--baby",
+    "PerformanceScore": 0.76,
+    "LCPms": 3396,
+    "ReceivedAt": "2025-11-01T17:55:20.9117488+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/self-enabling/producer/impactful",
+    "PerformanceScore": 0.88,
+    "LCPms": 3344,
+    "ReceivedAt": "2025-11-01T17:55:20.9117492+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/secondary/branding",
+    "PerformanceScore": 0.89,
+    "LCPms": 2775,
+    "ReceivedAt": "2025-11-01T17:55:20.9117496+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/handmade-wooden-tuna/common",
+    "PerformanceScore": 0.6,
+    "LCPms": 3290,
+    "ReceivedAt": "2025-11-01T17:55:20.91175+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/yellow",
+    "PerformanceScore": 0.94,
+    "LCPms": 2264,
+    "ReceivedAt": "2025-11-01T17:55:20.9117503+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/sleek",
+    "PerformanceScore": 0.73,
+    "LCPms": 3759,
+    "ReceivedAt": "2025-11-01T17:55:20.9117508+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/capacitor",
+    "PerformanceScore": 0.94,
+    "LCPms": 1525,
+    "ReceivedAt": "2025-11-01T17:55:20.9117511+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/viral/marketing",
+    "PerformanceScore": 0.96,
+    "LCPms": 3932,
+    "ReceivedAt": "2025-11-01T17:55:20.9117515+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/north-dakota/impactful",
+    "PerformanceScore": 0.76,
+    "LCPms": 2320,
+    "ReceivedAt": "2025-11-01T17:55:20.9117519+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/kenyan-shilling/implement/fuchsia",
+    "PerformanceScore": 0.75,
+    "LCPms": 2925,
+    "ReceivedAt": "2025-11-01T17:55:20.9117523+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/advanced/compressing",
+    "PerformanceScore": 0.65,
+    "LCPms": 1513,
+    "ReceivedAt": "2025-11-01T17:55:20.9117526+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/industrial-beauty--grocery/philippines/forest",
+    "PerformanceScore": 0.76,
+    "LCPms": 3478,
+    "ReceivedAt": "2025-11-01T17:55:20.9117531+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/time-frame/cross-platform",
+    "PerformanceScore": 0.83,
+    "LCPms": 2609,
+    "ReceivedAt": "2025-11-01T17:55:20.9117534+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/refined-frozen-table/expanded",
+    "PerformanceScore": 0.96,
+    "LCPms": 2595,
+    "ReceivedAt": "2025-11-01T17:55:20.9117538+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/sleek-plastic-tuna/plastic",
+    "PerformanceScore": 0.93,
+    "LCPms": 2099,
+    "ReceivedAt": "2025-11-01T17:55:20.9117541+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/fantastic-soft-tuna/bottom-line/navigate",
+    "PerformanceScore": 0.95,
+    "LCPms": 2342,
+    "ReceivedAt": "2025-11-01T17:55:20.9117548+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/focus-group/primary/ssl",
+    "PerformanceScore": 0.96,
+    "LCPms": 2419,
+    "ReceivedAt": "2025-11-01T17:55:20.9117555+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/gorgeous-steel-salad/syrian-pound/fantastic-rubber-bike",
+    "PerformanceScore": 0.92,
+    "LCPms": 3876,
+    "ReceivedAt": "2025-11-01T17:55:20.9117559+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/discrete",
+    "PerformanceScore": 0.96,
+    "LCPms": 3363,
+    "ReceivedAt": "2025-11-01T17:55:20.9117563+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/outdoors/secured-line/withdrawal",
+    "PerformanceScore": 0.64,
+    "LCPms": 2195,
+    "ReceivedAt": "2025-11-01T17:55:20.9117567+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/front-line/computers-outdoors--home/awesome",
+    "PerformanceScore": 0.81,
+    "LCPms": 2411,
+    "ReceivedAt": "2025-11-01T17:55:20.911757+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/solutions/synthesize",
+    "PerformanceScore": 0.87,
+    "LCPms": 2899,
+    "ReceivedAt": "2025-11-01T17:55:20.9117574+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/cotton/land/naira",
+    "PerformanceScore": 0.9,
+    "LCPms": 1874,
+    "ReceivedAt": "2025-11-01T17:55:20.9117578+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/international/lead",
+    "PerformanceScore": 0.88,
+    "LCPms": 3141,
+    "ReceivedAt": "2025-11-01T17:55:20.9117583+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/fantastic-metal-sausages/small-steel-pants/overriding",
+    "PerformanceScore": 0.96,
+    "LCPms": 1705,
+    "ReceivedAt": "2025-11-01T17:55:20.9117586+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/generate",
+    "PerformanceScore": 0.66,
+    "LCPms": 3417,
+    "ReceivedAt": "2025-11-01T17:55:20.911759+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/practical",
+    "PerformanceScore": 0.61,
+    "LCPms": 3428,
+    "ReceivedAt": "2025-11-01T17:55:20.9117594+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/tertiary",
+    "PerformanceScore": 0.72,
+    "LCPms": 2196,
+    "ReceivedAt": "2025-11-01T17:55:20.9117598+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/lime/grow",
+    "PerformanceScore": 0.81,
+    "LCPms": 3769,
+    "ReceivedAt": "2025-11-01T17:55:20.9117601+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/rustic-plastic-tuna",
+    "PerformanceScore": 0.68,
+    "LCPms": 2711,
+    "ReceivedAt": "2025-11-01T17:55:20.9117606+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/roads",
+    "PerformanceScore": 0.66,
+    "LCPms": 3919,
+    "ReceivedAt": "2025-11-01T17:55:20.9117609+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/customer-loyalty/inlet/extensions",
+    "PerformanceScore": 0.89,
+    "LCPms": 3342,
+    "ReceivedAt": "2025-11-01T17:55:20.9117613+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/grow/mesh/png",
+    "PerformanceScore": 0.64,
+    "LCPms": 2908,
+    "ReceivedAt": "2025-11-01T17:55:20.9117616+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/withdrawal",
+    "PerformanceScore": 0.94,
+    "LCPms": 2706,
+    "ReceivedAt": "2025-11-01T17:55:20.9117623+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/bypass/dale",
+    "PerformanceScore": 0.92,
+    "LCPms": 2599,
+    "ReceivedAt": "2025-11-01T17:55:20.9117626+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/gorgeous-soft-gloves",
+    "PerformanceScore": 0.95,
+    "LCPms": 3467,
+    "ReceivedAt": "2025-11-01T17:55:20.911763+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/smtp",
+    "PerformanceScore": 0.81,
+    "LCPms": 1714,
+    "ReceivedAt": "2025-11-01T17:55:20.9117634+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/back-end/firewall/movies--games",
+    "PerformanceScore": 0.81,
+    "LCPms": 3427,
+    "ReceivedAt": "2025-11-01T17:55:20.9117638+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/grocery",
+    "PerformanceScore": 0.69,
+    "LCPms": 2288,
+    "ReceivedAt": "2025-11-01T17:55:20.9117641+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/incentivize/roi/gorgeous-fresh-gloves",
+    "PerformanceScore": 0.68,
+    "LCPms": 1568,
+    "ReceivedAt": "2025-11-01T17:55:20.9117646+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/ameliorated",
+    "PerformanceScore": 0.63,
+    "LCPms": 3717,
+    "ReceivedAt": "2025-11-01T17:55:20.9117649+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/associate",
+    "PerformanceScore": 0.96,
+    "LCPms": 2391,
+    "ReceivedAt": "2025-11-01T17:55:20.9117653+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/united-states-minor-outlying-islands/back-end",
+    "PerformanceScore": 0.68,
+    "LCPms": 3775,
+    "ReceivedAt": "2025-11-01T17:55:20.9117657+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/ib",
+    "PerformanceScore": 0.63,
+    "LCPms": 1590,
+    "ReceivedAt": "2025-11-01T17:55:20.9117661+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/credit-card-account/encompassing",
+    "PerformanceScore": 0.78,
+    "LCPms": 1982,
+    "ReceivedAt": "2025-11-01T17:55:20.9117664+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/back-end",
+    "PerformanceScore": 0.95,
+    "LCPms": 3461,
+    "ReceivedAt": "2025-11-01T17:55:20.9117669+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/hacking",
+    "PerformanceScore": 0.76,
+    "LCPms": 1585,
+    "ReceivedAt": "2025-11-01T17:55:20.9117672+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/open-architecture",
+    "PerformanceScore": 0.98,
+    "LCPms": 2868,
+    "ReceivedAt": "2025-11-01T17:55:20.9117676+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/connecting/multi-lateral/spurs",
+    "PerformanceScore": 0.86,
+    "LCPms": 2196,
+    "ReceivedAt": "2025-11-01T17:55:20.9117679+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/functionalities/lime",
+    "PerformanceScore": 0.67,
+    "LCPms": 2000,
+    "ReceivedAt": "2025-11-01T17:55:20.9117683+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/incremental/baby-industrial--games",
+    "PerformanceScore": 0.77,
+    "LCPms": 2433,
+    "ReceivedAt": "2025-11-01T17:55:20.9117687+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/viaduct/money-market-account/inlet",
+    "PerformanceScore": 0.73,
+    "LCPms": 2010,
+    "ReceivedAt": "2025-11-01T17:55:20.9117691+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/calculating/practical-concrete-pizza",
+    "PerformanceScore": 0.67,
+    "LCPms": 3665,
+    "ReceivedAt": "2025-11-01T17:55:20.9117694+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/home-loan-account/sky-blue/maroon",
+    "PerformanceScore": 0.92,
+    "LCPms": 2007,
+    "ReceivedAt": "2025-11-01T17:55:20.9117699+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/luxembourg/specialist/garden",
+    "PerformanceScore": 0.88,
+    "LCPms": 2185,
+    "ReceivedAt": "2025-11-01T17:55:20.9117703+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/client-server",
+    "PerformanceScore": 0.97,
+    "LCPms": 2391,
+    "ReceivedAt": "2025-11-01T17:55:20.9117707+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/lesotho/somoni/bypass",
+    "PerformanceScore": 0.61,
+    "LCPms": 2829,
+    "ReceivedAt": "2025-11-01T17:55:20.9117711+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/automotive/handcrafted/olive",
+    "PerformanceScore": 0.65,
+    "LCPms": 2722,
+    "ReceivedAt": "2025-11-01T17:55:20.9117719+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/borders",
+    "PerformanceScore": 0.85,
+    "LCPms": 2269,
+    "ReceivedAt": "2025-11-01T17:55:20.9117722+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/arkansas",
+    "PerformanceScore": 0.74,
+    "LCPms": 3561,
+    "ReceivedAt": "2025-11-01T17:55:20.9117727+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/withdrawal/emulation",
+    "PerformanceScore": 0.87,
+    "LCPms": 2429,
+    "ReceivedAt": "2025-11-01T17:55:20.9117729+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/override/focus-group/algorithm",
+    "PerformanceScore": 0.76,
+    "LCPms": 2041,
+    "ReceivedAt": "2025-11-01T17:55:20.9117733+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/small-soft-pizza",
+    "PerformanceScore": 0.95,
+    "LCPms": 1937,
+    "ReceivedAt": "2025-11-01T17:55:20.9117737+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/redefine/refined-steel-pants",
+    "PerformanceScore": 0.81,
+    "LCPms": 1777,
+    "ReceivedAt": "2025-11-01T17:55:20.9117741+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/rapids",
+    "PerformanceScore": 0.8,
+    "LCPms": 1727,
+    "ReceivedAt": "2025-11-01T17:55:20.9117745+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/handcrafted-steel-fish",
+    "PerformanceScore": 0.6,
+    "LCPms": 3820,
+    "ReceivedAt": "2025-11-01T17:55:20.9117749+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/integration/object-oriented",
+    "PerformanceScore": 0.92,
+    "LCPms": 2907,
+    "ReceivedAt": "2025-11-01T17:55:20.9117753+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/district",
+    "PerformanceScore": 0.85,
+    "LCPms": 3581,
+    "ReceivedAt": "2025-11-01T17:55:20.9117757+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/intelligent",
+    "PerformanceScore": 0.94,
+    "LCPms": 2160,
+    "ReceivedAt": "2025-11-01T17:55:20.911776+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/virtual/ai",
+    "PerformanceScore": 0.82,
+    "LCPms": 2144,
+    "ReceivedAt": "2025-11-01T17:55:20.9117764+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/gorgeous-frozen-chips/avon/experiences",
+    "PerformanceScore": 0.99,
+    "LCPms": 1833,
+    "ReceivedAt": "2025-11-01T17:55:20.9117767+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/checking-account/invoice/transmit",
+    "PerformanceScore": 0.99,
+    "LCPms": 2850,
+    "ReceivedAt": "2025-11-01T17:55:20.9117772+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/blue",
+    "PerformanceScore": 0.97,
+    "LCPms": 2311,
+    "ReceivedAt": "2025-11-01T17:55:20.9117778+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/fresh",
+    "PerformanceScore": 0.74,
+    "LCPms": 2795,
+    "ReceivedAt": "2025-11-01T17:55:20.9117782+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/artificial-intelligence/field",
+    "PerformanceScore": 0.69,
+    "LCPms": 3056,
+    "ReceivedAt": "2025-11-01T17:55:20.9117785+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/bedfordshire",
+    "PerformanceScore": 0.76,
+    "LCPms": 1958,
+    "ReceivedAt": "2025-11-01T17:55:20.9117789+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/firmware",
+    "PerformanceScore": 0.95,
+    "LCPms": 2934,
+    "ReceivedAt": "2025-11-01T17:55:20.9117792+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/robust/transition/empower",
+    "PerformanceScore": 0.91,
+    "LCPms": 3269,
+    "ReceivedAt": "2025-11-01T17:55:20.9117796+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/sms/ergonomic-plastic-pants",
+    "PerformanceScore": 0.94,
+    "LCPms": 3258,
+    "ReceivedAt": "2025-11-01T17:55:20.9117799+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/superstructure/fiji-dollar/planner",
+    "PerformanceScore": 0.76,
+    "LCPms": 1602,
+    "ReceivedAt": "2025-11-01T17:55:20.9117804+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/microchip",
+    "PerformanceScore": 0.66,
+    "LCPms": 2908,
+    "ReceivedAt": "2025-11-01T17:55:20.9117807+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/engineer",
+    "PerformanceScore": 0.84,
+    "LCPms": 2614,
+    "ReceivedAt": "2025-11-01T17:55:20.9117811+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/hdd/neural",
+    "PerformanceScore": 0.78,
+    "LCPms": 2560,
+    "ReceivedAt": "2025-11-01T17:55:20.9117814+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/scsi/square/lime",
+    "PerformanceScore": 0.93,
+    "LCPms": 2245,
+    "ReceivedAt": "2025-11-01T17:55:20.9117819+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/hack/withdrawal/platforms",
+    "PerformanceScore": 1,
+    "LCPms": 1658,
+    "ReceivedAt": "2025-11-01T17:55:20.9117822+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/impactful/avon",
+    "PerformanceScore": 0.92,
+    "LCPms": 2929,
+    "ReceivedAt": "2025-11-01T17:55:20.9117826+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/indexing/locks/rapid",
+    "PerformanceScore": 0.98,
+    "LCPms": 3127,
+    "ReceivedAt": "2025-11-01T17:55:20.9117829+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/azure/fantastic-frozen-towels",
+    "PerformanceScore": 0.8,
+    "LCPms": 3036,
+    "ReceivedAt": "2025-11-01T17:55:20.9117833+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/lilangeni",
+    "PerformanceScore": 0.71,
+    "LCPms": 3636,
+    "ReceivedAt": "2025-11-01T17:55:20.9117836+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/eritrea",
+    "PerformanceScore": 0.82,
+    "LCPms": 3840,
+    "ReceivedAt": "2025-11-01T17:55:20.9117841+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/personal-loan-account/gb/credit-card-account",
+    "PerformanceScore": 0.84,
+    "LCPms": 2645,
+    "ReceivedAt": "2025-11-01T17:55:20.9117845+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/guarani",
+    "PerformanceScore": 0.98,
+    "LCPms": 2310,
+    "ReceivedAt": "2025-11-01T17:55:20.9117851+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/override",
+    "PerformanceScore": 0.92,
+    "LCPms": 2926,
+    "ReceivedAt": "2025-11-01T17:55:20.9117854+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/nuevo-sol/street",
+    "PerformanceScore": 0.73,
+    "LCPms": 3483,
+    "ReceivedAt": "2025-11-01T17:55:20.9117859+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/investment-account",
+    "PerformanceScore": 0.7,
+    "LCPms": 3550,
+    "ReceivedAt": "2025-11-01T17:55:20.9117862+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/tasty-concrete-chair/michigan/tools",
+    "PerformanceScore": 0.84,
+    "LCPms": 3607,
+    "ReceivedAt": "2025-11-01T17:55:20.9117866+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/neck/agent",
+    "PerformanceScore": 0.67,
+    "LCPms": 2318,
+    "ReceivedAt": "2025-11-01T17:55:20.9117869+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/frozen/b2c/open-source",
+    "PerformanceScore": 0.71,
+    "LCPms": 1718,
+    "ReceivedAt": "2025-11-01T17:55:20.9117873+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/unions/computers/methodologies",
+    "PerformanceScore": 0.9,
+    "LCPms": 2399,
+    "ReceivedAt": "2025-11-01T17:55:20.9117881+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/plastic",
+    "PerformanceScore": 0.98,
+    "LCPms": 1702,
+    "ReceivedAt": "2025-11-01T17:55:20.9117885+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/ib/rustic-soft-sausages",
+    "PerformanceScore": 0.76,
+    "LCPms": 3951,
+    "ReceivedAt": "2025-11-01T17:55:20.9117888+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/monitored",
+    "PerformanceScore": 0.64,
+    "LCPms": 3949,
+    "ReceivedAt": "2025-11-01T17:55:20.9117893+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/pines/generic/incredible-concrete-car",
+    "PerformanceScore": 0.7,
+    "LCPms": 2126,
+    "ReceivedAt": "2025-11-01T17:55:20.9117896+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/mobile/process-improvement/content",
+    "PerformanceScore": 0.75,
+    "LCPms": 2612,
+    "ReceivedAt": "2025-11-01T17:55:20.91179+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/rubber",
+    "PerformanceScore": 0.93,
+    "LCPms": 1503,
+    "ReceivedAt": "2025-11-01T17:55:20.9117904+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/palau",
+    "PerformanceScore": 0.93,
+    "LCPms": 1838,
+    "ReceivedAt": "2025-11-01T17:55:20.9117908+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/hacking/deposit/buckinghamshire",
+    "PerformanceScore": 0.78,
+    "LCPms": 2965,
+    "ReceivedAt": "2025-11-01T17:55:20.9117911+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/california",
+    "PerformanceScore": 0.65,
+    "LCPms": 2754,
+    "ReceivedAt": "2025-11-01T17:55:20.9117915+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/european-unit-of-account-9e.u.a.-9/square",
+    "PerformanceScore": 0.8,
+    "LCPms": 2913,
+    "ReceivedAt": "2025-11-01T17:55:20.9117918+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/relationships",
+    "PerformanceScore": 0.66,
+    "LCPms": 1667,
+    "ReceivedAt": "2025-11-01T17:55:20.9117923+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/unbranded/legacy",
+    "PerformanceScore": 0.95,
+    "LCPms": 3539,
+    "ReceivedAt": "2025-11-01T17:55:20.9117926+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/realigned",
+    "PerformanceScore": 0.86,
+    "LCPms": 2016,
+    "ReceivedAt": "2025-11-01T17:55:20.9117931+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/usability/local-area-network",
+    "PerformanceScore": 0.63,
+    "LCPms": 2463,
+    "ReceivedAt": "2025-11-01T17:55:20.9117934+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/unbranded-soft-mouse/relationships/enhance",
+    "PerformanceScore": 0.91,
+    "LCPms": 3388,
+    "ReceivedAt": "2025-11-01T17:55:20.9117938+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/plum/synthesizing",
+    "PerformanceScore": 0.96,
+    "LCPms": 2279,
+    "ReceivedAt": "2025-11-01T17:55:20.9117941+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/viral/human-resource",
+    "PerformanceScore": 0.83,
+    "LCPms": 2548,
+    "ReceivedAt": "2025-11-01T17:55:20.9117946+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/checking-account",
+    "PerformanceScore": 0.89,
+    "LCPms": 3320,
+    "ReceivedAt": "2025-11-01T17:55:20.9117949+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/unbranded-steel-bacon/jewelery--outdoors",
+    "PerformanceScore": 0.71,
+    "LCPms": 2160,
+    "ReceivedAt": "2025-11-01T17:55:20.9117953+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/legacy/wyoming",
+    "PerformanceScore": 1,
+    "LCPms": 2303,
+    "ReceivedAt": "2025-11-01T17:55:20.9117957+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/avon",
+    "PerformanceScore": 0.8,
+    "LCPms": 3410,
+    "ReceivedAt": "2025-11-01T17:55:20.9117961+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/assurance",
+    "PerformanceScore": 0.92,
+    "LCPms": 3701,
+    "ReceivedAt": "2025-11-01T17:55:20.9117964+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/administrator/shoes--grocery/berkshire",
+    "PerformanceScore": 0.79,
+    "LCPms": 3903,
+    "ReceivedAt": "2025-11-01T17:55:20.9117969+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/multi-byte/awesome-rubber-hat/national",
+    "PerformanceScore": 0.92,
+    "LCPms": 2113,
+    "ReceivedAt": "2025-11-01T17:55:20.9117973+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/tasty-frozen-towels/instruction-set/invoice",
+    "PerformanceScore": 0.86,
+    "LCPms": 3988,
+    "ReceivedAt": "2025-11-01T17:55:20.9117977+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/rubber/initiatives/transitional",
+    "PerformanceScore": 0.9,
+    "LCPms": 3018,
+    "ReceivedAt": "2025-11-01T17:55:20.9117981+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/plastic/cuban-peso/unbranded-concrete-car",
+    "PerformanceScore": 0.7,
+    "LCPms": 2910,
+    "ReceivedAt": "2025-11-01T17:55:20.9117985+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/incredible/moratorium/1080p",
+    "PerformanceScore": 0.88,
+    "LCPms": 2286,
+    "ReceivedAt": "2025-11-01T17:55:20.9117988+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/teal/pci",
+    "PerformanceScore": 0.6,
+    "LCPms": 3296,
+    "ReceivedAt": "2025-11-01T17:55:20.9117993+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/ville",
+    "PerformanceScore": 0.76,
+    "LCPms": 2147,
+    "ReceivedAt": "2025-11-01T17:55:20.9117996+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/specialist/alarm",
+    "PerformanceScore": 0.76,
+    "LCPms": 1710,
+    "ReceivedAt": "2025-11-01T17:55:20.9118003+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/program/models",
+    "PerformanceScore": 0.68,
+    "LCPms": 1860,
+    "ReceivedAt": "2025-11-01T17:55:20.9118006+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/burg/chief/locks",
+    "PerformanceScore": 0.89,
+    "LCPms": 2611,
+    "ReceivedAt": "2025-11-01T17:55:20.911801+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/auxiliary",
+    "PerformanceScore": 0.87,
+    "LCPms": 2897,
+    "ReceivedAt": "2025-11-01T17:55:20.9118013+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/sleek-frozen-computer/home--computers/compress",
+    "PerformanceScore": 0.95,
+    "LCPms": 1972,
+    "ReceivedAt": "2025-11-01T17:55:20.9118018+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/universal/payment",
+    "PerformanceScore": 0.69,
+    "LCPms": 2402,
+    "ReceivedAt": "2025-11-01T17:55:20.9118021+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/courts",
+    "PerformanceScore": 0.75,
+    "LCPms": 2141,
+    "ReceivedAt": "2025-11-01T17:55:20.9118026+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/communications",
+    "PerformanceScore": 0.65,
+    "LCPms": 3900,
+    "ReceivedAt": "2025-11-01T17:55:20.9118029+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/bedfordshire/italy",
+    "PerformanceScore": 0.88,
+    "LCPms": 3928,
+    "ReceivedAt": "2025-11-01T17:55:20.9118033+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/court/somalia/armenian-dram",
+    "PerformanceScore": 0.63,
+    "LCPms": 2428,
+    "ReceivedAt": "2025-11-01T17:55:20.9118037+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/global/magenta/transmitting",
+    "PerformanceScore": 0.92,
+    "LCPms": 3770,
+    "ReceivedAt": "2025-11-01T17:55:20.9118045+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/sleek-frozen-keyboard/hacking/capacitor",
+    "PerformanceScore": 0.7,
+    "LCPms": 3232,
+    "ReceivedAt": "2025-11-01T17:55:20.9118048+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/matrix/field/empower",
+    "PerformanceScore": 0.73,
+    "LCPms": 1775,
+    "ReceivedAt": "2025-11-01T17:55:20.9118053+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/capacitor",
+    "PerformanceScore": 0.68,
+    "LCPms": 1890,
+    "ReceivedAt": "2025-11-01T17:55:20.9118056+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/adaptive",
+    "PerformanceScore": 0.95,
+    "LCPms": 3858,
+    "ReceivedAt": "2025-11-01T17:55:20.911806+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/bus/home-loan-account",
+    "PerformanceScore": 0.68,
+    "LCPms": 2363,
+    "ReceivedAt": "2025-11-01T17:55:20.9118063+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/bypassing/methodology/back-end",
+    "PerformanceScore": 0.83,
+    "LCPms": 2596,
+    "ReceivedAt": "2025-11-01T17:55:20.9118067+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/policy/colombia/games-garden--books",
+    "PerformanceScore": 0.93,
+    "LCPms": 2531,
+    "ReceivedAt": "2025-11-01T17:55:20.9118071+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/rss",
+    "PerformanceScore": 0.8,
+    "LCPms": 2846,
+    "ReceivedAt": "2025-11-01T17:55:20.9118075+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/strategize",
+    "PerformanceScore": 0.81,
+    "LCPms": 3416,
+    "ReceivedAt": "2025-11-01T17:55:20.9118077+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/applications",
+    "PerformanceScore": 0.64,
+    "LCPms": 3683,
+    "ReceivedAt": "2025-11-01T17:55:20.9118082+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/navigating",
+    "PerformanceScore": 0.97,
+    "LCPms": 2513,
+    "ReceivedAt": "2025-11-01T17:55:20.9118085+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/infomediaries/congo",
+    "PerformanceScore": 0.75,
+    "LCPms": 3915,
+    "ReceivedAt": "2025-11-01T17:55:20.9118089+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/street",
+    "PerformanceScore": 0.97,
+    "LCPms": 3175,
+    "ReceivedAt": "2025-11-01T17:55:20.9118093+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/mint-green/designer",
+    "PerformanceScore": 0.69,
+    "LCPms": 1518,
+    "ReceivedAt": "2025-11-01T17:55:20.9118097+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/radial/systemic",
+    "PerformanceScore": 0.69,
+    "LCPms": 1968,
+    "ReceivedAt": "2025-11-01T17:55:20.9118101+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/deposit",
+    "PerformanceScore": 0.75,
+    "LCPms": 1645,
+    "ReceivedAt": "2025-11-01T17:55:20.9118106+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/deposit/international",
+    "PerformanceScore": 0.75,
+    "LCPms": 1501,
+    "ReceivedAt": "2025-11-01T17:55:20.9118108+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/wooden",
+    "PerformanceScore": 0.93,
+    "LCPms": 2702,
+    "ReceivedAt": "2025-11-01T17:55:20.9118113+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/lime/back-up/points",
+    "PerformanceScore": 0.88,
+    "LCPms": 3792,
+    "ReceivedAt": "2025-11-01T17:55:20.9118116+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/rustic-steel-fish/circuit",
+    "PerformanceScore": 0.92,
+    "LCPms": 2965,
+    "ReceivedAt": "2025-11-01T17:55:20.9118121+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/home-loan-account/grocery",
+    "PerformanceScore": 0.7,
+    "LCPms": 3864,
+    "ReceivedAt": "2025-11-01T17:55:20.9118124+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/dot-com",
+    "PerformanceScore": 0.81,
+    "LCPms": 3540,
+    "ReceivedAt": "2025-11-01T17:55:20.9118129+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/6th-generation/emulation/latvian-lats",
+    "PerformanceScore": 0.7,
+    "LCPms": 3804,
+    "ReceivedAt": "2025-11-01T17:55:20.9118132+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/pines/investment-account/agp",
+    "PerformanceScore": 0.91,
+    "LCPms": 2460,
+    "ReceivedAt": "2025-11-01T17:55:20.9118137+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/utilisation",
+    "PerformanceScore": 0.63,
+    "LCPms": 1606,
+    "ReceivedAt": "2025-11-01T17:55:20.911814+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/deposit/credit-card-account",
+    "PerformanceScore": 0.71,
+    "LCPms": 2397,
+    "ReceivedAt": "2025-11-01T17:55:20.9118145+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/liaison/withdrawal/regional",
+    "PerformanceScore": 0.77,
+    "LCPms": 1732,
+    "ReceivedAt": "2025-11-01T17:55:20.9118148+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/sky-blue/zambia/cordoba-oro",
+    "PerformanceScore": 0.81,
+    "LCPms": 2017,
+    "ReceivedAt": "2025-11-01T17:55:20.9118152+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/reverse-engineered",
+    "PerformanceScore": 0.92,
+    "LCPms": 3711,
+    "ReceivedAt": "2025-11-01T17:55:20.9118155+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/regional/back-end",
+    "PerformanceScore": 0.88,
+    "LCPms": 1890,
+    "ReceivedAt": "2025-11-01T17:55:20.9121621+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/transparent",
+    "PerformanceScore": 0.71,
+    "LCPms": 2688,
+    "ReceivedAt": "2025-11-01T17:55:20.9121633+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/auto-loan-account",
+    "PerformanceScore": 0.65,
+    "LCPms": 3564,
+    "ReceivedAt": "2025-11-01T17:55:20.9121639+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/open-source",
+    "PerformanceScore": 0.72,
+    "LCPms": 3354,
+    "ReceivedAt": "2025-11-01T17:55:20.9121641+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/yellow",
+    "PerformanceScore": 0.96,
+    "LCPms": 3192,
+    "ReceivedAt": "2025-11-01T17:55:20.9121646+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/synthesize/computers-industrial--home",
+    "PerformanceScore": 0.8,
+    "LCPms": 3079,
+    "ReceivedAt": "2025-11-01T17:55:20.9121649+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/synergized",
+    "PerformanceScore": 0.82,
+    "LCPms": 3470,
+    "ReceivedAt": "2025-11-01T17:55:20.9121654+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/sleek",
+    "PerformanceScore": 0.99,
+    "LCPms": 2634,
+    "ReceivedAt": "2025-11-01T17:55:20.9121657+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/mobility",
+    "PerformanceScore": 0.99,
+    "LCPms": 2275,
+    "ReceivedAt": "2025-11-01T17:55:20.9121661+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/strategist/kansas/reintermediate",
+    "PerformanceScore": 0.99,
+    "LCPms": 1876,
+    "ReceivedAt": "2025-11-01T17:55:20.9121665+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/saint-lucia/tcp/throughput",
+    "PerformanceScore": 0.95,
+    "LCPms": 2371,
+    "ReceivedAt": "2025-11-01T17:55:20.9121669+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/solution-oriented",
+    "PerformanceScore": 0.84,
+    "LCPms": 3236,
+    "ReceivedAt": "2025-11-01T17:55:20.9121681+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/village/logistical/json",
+    "PerformanceScore": 0.67,
+    "LCPms": 3076,
+    "ReceivedAt": "2025-11-01T17:55:20.9121686+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/attitude-oriented/hack",
+    "PerformanceScore": 0.7,
+    "LCPms": 3058,
+    "ReceivedAt": "2025-11-01T17:55:20.912169+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/district/latvian-lats",
+    "PerformanceScore": 0.92,
+    "LCPms": 2994,
+    "ReceivedAt": "2025-11-01T17:55:20.9121695+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/estonia/approach/exclusive",
+    "PerformanceScore": 0.82,
+    "LCPms": 1536,
+    "ReceivedAt": "2025-11-01T17:55:20.9121698+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/bus",
+    "PerformanceScore": 0.73,
+    "LCPms": 2619,
+    "ReceivedAt": "2025-11-01T17:55:20.9121703+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/visionary/lime",
+    "PerformanceScore": 0.81,
+    "LCPms": 1543,
+    "ReceivedAt": "2025-11-01T17:55:20.9121706+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/red/adp",
+    "PerformanceScore": 0.61,
+    "LCPms": 2695,
+    "ReceivedAt": "2025-11-01T17:55:20.912171+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/division",
+    "PerformanceScore": 0.71,
+    "LCPms": 3491,
+    "ReceivedAt": "2025-11-01T17:55:20.9121714+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/group/functionalities/wyoming",
+    "PerformanceScore": 0.92,
+    "LCPms": 3907,
+    "ReceivedAt": "2025-11-01T17:55:20.9121719+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/small-plastic-fish/center/initiatives",
+    "PerformanceScore": 0.82,
+    "LCPms": 3009,
+    "ReceivedAt": "2025-11-01T17:55:20.9121722+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/input/gold/buckinghamshire",
+    "PerformanceScore": 0.77,
+    "LCPms": 2372,
+    "ReceivedAt": "2025-11-01T17:55:20.9121727+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/kina/enterprise",
+    "PerformanceScore": 0.92,
+    "LCPms": 1630,
+    "ReceivedAt": "2025-11-01T17:55:20.9121732+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/practical",
+    "PerformanceScore": 0.97,
+    "LCPms": 3633,
+    "ReceivedAt": "2025-11-01T17:55:20.9121737+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/checking-account",
+    "PerformanceScore": 0.69,
+    "LCPms": 3027,
+    "ReceivedAt": "2025-11-01T17:55:20.912174+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/reciprocal/pixel/international",
+    "PerformanceScore": 0.66,
+    "LCPms": 3275,
+    "ReceivedAt": "2025-11-01T17:55:20.9121745+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/leverage/handmade-concrete-bacon",
+    "PerformanceScore": 0.66,
+    "LCPms": 3948,
+    "ReceivedAt": "2025-11-01T17:55:20.9121749+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/savings-account/systematic/legacy",
+    "PerformanceScore": 0.81,
+    "LCPms": 1694,
+    "ReceivedAt": "2025-11-01T17:55:20.9121753+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/metal/payment/infrastructure",
+    "PerformanceScore": 0.93,
+    "LCPms": 3585,
+    "ReceivedAt": "2025-11-01T17:55:20.9121757+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/handmade-cotton-computer",
+    "PerformanceScore": 0.7,
+    "LCPms": 2489,
+    "ReceivedAt": "2025-11-01T17:55:20.9121761+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/navigating/incredible-concrete-keyboard/administrator",
+    "PerformanceScore": 0.68,
+    "LCPms": 3197,
+    "ReceivedAt": "2025-11-01T17:55:20.9121764+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/liberia",
+    "PerformanceScore": 0.89,
+    "LCPms": 2348,
+    "ReceivedAt": "2025-11-01T17:55:20.9121769+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/attitude/garden-clothing--automotive",
+    "PerformanceScore": 0.91,
+    "LCPms": 3358,
+    "ReceivedAt": "2025-11-01T17:55:20.9121772+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/sas/seamless",
+    "PerformanceScore": 0.67,
+    "LCPms": 2286,
+    "ReceivedAt": "2025-11-01T17:55:20.9121777+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/compress/invoice/solutions",
+    "PerformanceScore": 0.63,
+    "LCPms": 3896,
+    "ReceivedAt": "2025-11-01T17:55:20.912178+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/alabama/usb/credit-card-account",
+    "PerformanceScore": 0.91,
+    "LCPms": 2149,
+    "ReceivedAt": "2025-11-01T17:55:20.9121784+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/savings-account/bluetooth/turn-key",
+    "PerformanceScore": 0.78,
+    "LCPms": 3154,
+    "ReceivedAt": "2025-11-01T17:55:20.9121788+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/practical/handcrafted-soft-pizza/invoice",
+    "PerformanceScore": 0.69,
+    "LCPms": 2630,
+    "ReceivedAt": "2025-11-01T17:55:20.9121792+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/maximize",
+    "PerformanceScore": 0.77,
+    "LCPms": 3717,
+    "ReceivedAt": "2025-11-01T17:55:20.9121795+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/cuba",
+    "PerformanceScore": 0.99,
+    "LCPms": 1881,
+    "ReceivedAt": "2025-11-01T17:55:20.91218+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/withdrawal/ergonomic",
+    "PerformanceScore": 0.7,
+    "LCPms": 3243,
+    "ReceivedAt": "2025-11-01T17:55:20.9121803+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/web",
+    "PerformanceScore": 0.78,
+    "LCPms": 2600,
+    "ReceivedAt": "2025-11-01T17:55:20.9121808+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/optical/open-source",
+    "PerformanceScore": 0.94,
+    "LCPms": 3819,
+    "ReceivedAt": "2025-11-01T17:55:20.9121812+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/optimize",
+    "PerformanceScore": 0.68,
+    "LCPms": 3120,
+    "ReceivedAt": "2025-11-01T17:55:20.9121818+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/borders/tasty-fresh-tuna/european-unit-of-account-9e.u.a",
+    "PerformanceScore": 0.94,
+    "LCPms": 2434,
+    "ReceivedAt": "2025-11-01T17:55:20.9121821+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/virtual/garden-toys--outdoors/multi-byte",
+    "PerformanceScore": 0.75,
+    "LCPms": 1993,
+    "ReceivedAt": "2025-11-01T17:55:20.9121826+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/cross-platform",
+    "PerformanceScore": 0.62,
+    "LCPms": 2074,
+    "ReceivedAt": "2025-11-01T17:55:20.9121829+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/gorgeous-metal-hat/engage",
+    "PerformanceScore": 0.95,
+    "LCPms": 3545,
+    "ReceivedAt": "2025-11-01T17:55:20.9121834+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/collaborative",
+    "PerformanceScore": 0.62,
+    "LCPms": 3312,
+    "ReceivedAt": "2025-11-01T17:55:20.9121837+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/cross-media",
+    "PerformanceScore": 0.7,
+    "LCPms": 1730,
+    "ReceivedAt": "2025-11-01T17:55:20.9121842+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/investment-account/home-loan-account",
+    "PerformanceScore": 0.92,
+    "LCPms": 1528,
+    "ReceivedAt": "2025-11-01T17:55:20.9121845+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/division/virgin-islands-british",
+    "PerformanceScore": 0.62,
+    "LCPms": 3368,
+    "ReceivedAt": "2025-11-01T17:55:20.9121855+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/tenge",
+    "PerformanceScore": 0.99,
+    "LCPms": 3840,
+    "ReceivedAt": "2025-11-01T17:55:20.9121858+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/garden-books--beauty",
+    "PerformanceScore": 0.74,
+    "LCPms": 2263,
+    "ReceivedAt": "2025-11-01T17:55:20.9121862+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/bypassing/mobile",
+    "PerformanceScore": 0.87,
+    "LCPms": 3331,
+    "ReceivedAt": "2025-11-01T17:55:20.9121865+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/rubber/wyoming",
+    "PerformanceScore": 0.77,
+    "LCPms": 2170,
+    "ReceivedAt": "2025-11-01T17:55:20.912187+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/transmit",
+    "PerformanceScore": 0.85,
+    "LCPms": 3933,
+    "ReceivedAt": "2025-11-01T17:55:20.9121873+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/balboa/fantastic",
+    "PerformanceScore": 0.63,
+    "LCPms": 2360,
+    "ReceivedAt": "2025-11-01T17:55:20.912188+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/shoes--games/envisioneer",
+    "PerformanceScore": 0.86,
+    "LCPms": 2920,
+    "ReceivedAt": "2025-11-01T17:55:20.9121883+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/berkshire/rubber",
+    "PerformanceScore": 0.75,
+    "LCPms": 2932,
+    "ReceivedAt": "2025-11-01T17:55:20.9121888+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/intelligent-frozen-table",
+    "PerformanceScore": 0.89,
+    "LCPms": 2318,
+    "ReceivedAt": "2025-11-01T17:55:20.9121891+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/divide/application/calculate",
+    "PerformanceScore": 0.92,
+    "LCPms": 2437,
+    "ReceivedAt": "2025-11-01T17:55:20.9121896+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/somali-shilling/tactics",
+    "PerformanceScore": 0.91,
+    "LCPms": 3585,
+    "ReceivedAt": "2025-11-01T17:55:20.9121899+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/monitor/practical-cotton-gloves",
+    "PerformanceScore": 0.65,
+    "LCPms": 2525,
+    "ReceivedAt": "2025-11-01T17:55:20.9121903+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/innovative/secondary/innovate",
+    "PerformanceScore": 0.62,
+    "LCPms": 1963,
+    "ReceivedAt": "2025-11-01T17:55:20.9121907+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/virtual/impactful",
+    "PerformanceScore": 0.97,
+    "LCPms": 2141,
+    "ReceivedAt": "2025-11-01T17:55:20.9121911+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/auxiliary/views",
+    "PerformanceScore": 0.86,
+    "LCPms": 2046,
+    "ReceivedAt": "2025-11-01T17:55:20.9121914+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/customer/program",
+    "PerformanceScore": 0.83,
+    "LCPms": 3134,
+    "ReceivedAt": "2025-11-01T17:55:20.9121919+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/savings-account/pataca",
+    "PerformanceScore": 0.79,
+    "LCPms": 2263,
+    "ReceivedAt": "2025-11-01T17:55:20.9121923+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/css/clicks-and-mortar",
+    "PerformanceScore": 0.95,
+    "LCPms": 1848,
+    "ReceivedAt": "2025-11-01T17:55:20.9121927+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/small-concrete-bacon/togo",
+    "PerformanceScore": 0.94,
+    "LCPms": 2231,
+    "ReceivedAt": "2025-11-01T17:55:20.9121931+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/personal-loan-account",
+    "PerformanceScore": 0.8,
+    "LCPms": 2427,
+    "ReceivedAt": "2025-11-01T17:55:20.9121935+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/generic/avon",
+    "PerformanceScore": 0.83,
+    "LCPms": 1741,
+    "ReceivedAt": "2025-11-01T17:55:20.9121939+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/teal",
+    "PerformanceScore": 0.86,
+    "LCPms": 3026,
+    "ReceivedAt": "2025-11-01T17:55:20.9121943+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/project/team-oriented/tangible",
+    "PerformanceScore": 0.71,
+    "LCPms": 3672,
+    "ReceivedAt": "2025-11-01T17:55:20.9121946+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/invoice",
+    "PerformanceScore": 0.73,
+    "LCPms": 1697,
+    "ReceivedAt": "2025-11-01T17:55:20.9121951+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/functionalities",
+    "PerformanceScore": 0.81,
+    "LCPms": 2620,
+    "ReceivedAt": "2025-11-01T17:55:20.9121957+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/deposit/synergize/tasty-fresh-tuna",
+    "PerformanceScore": 0.65,
+    "LCPms": 2256,
+    "ReceivedAt": "2025-11-01T17:55:20.9121961+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/payment/intelligent-fresh-sausages",
+    "PerformanceScore": 0.74,
+    "LCPms": 2670,
+    "ReceivedAt": "2025-11-01T17:55:20.9121965+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/fall/washington/deposit",
+    "PerformanceScore": 0.95,
+    "LCPms": 2698,
+    "ReceivedAt": "2025-11-01T17:55:20.912197+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/assistant/india",
+    "PerformanceScore": 0.95,
+    "LCPms": 3696,
+    "ReceivedAt": "2025-11-01T17:55:20.9121973+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/gorgeous-metal-chips/discrete/alliance",
+    "PerformanceScore": 0.61,
+    "LCPms": 2547,
+    "ReceivedAt": "2025-11-01T17:55:20.9121978+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/dynamic",
+    "PerformanceScore": 0.82,
+    "LCPms": 3819,
+    "ReceivedAt": "2025-11-01T17:55:20.9121981+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/stand-alone/sticky/infomediaries",
+    "PerformanceScore": 0.99,
+    "LCPms": 1726,
+    "ReceivedAt": "2025-11-01T17:55:20.9121986+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/avon/rubber/connecting",
+    "PerformanceScore": 0.97,
+    "LCPms": 3171,
+    "ReceivedAt": "2025-11-01T17:55:20.912199+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/savings-account",
+    "PerformanceScore": 0.84,
+    "LCPms": 2419,
+    "ReceivedAt": "2025-11-01T17:55:20.9121994+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/producer/branch",
+    "PerformanceScore": 0.99,
+    "LCPms": 3772,
+    "ReceivedAt": "2025-11-01T17:55:20.9121997+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/rustic-rubber-car/gardens",
+    "PerformanceScore": 0.95,
+    "LCPms": 1906,
+    "ReceivedAt": "2025-11-01T17:55:20.9122002+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/refined-wooden-car/invoice",
+    "PerformanceScore": 0.88,
+    "LCPms": 2346,
+    "ReceivedAt": "2025-11-01T17:55:20.9122005+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/arkansas",
+    "PerformanceScore": 0.87,
+    "LCPms": 3236,
+    "ReceivedAt": "2025-11-01T17:55:20.912201+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/multi-byte/alabama",
+    "PerformanceScore": 0.88,
+    "LCPms": 3450,
+    "ReceivedAt": "2025-11-01T17:55:20.9122014+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/administrator/payment",
+    "PerformanceScore": 0.94,
+    "LCPms": 2480,
+    "ReceivedAt": "2025-11-01T17:55:20.9122018+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/buckinghamshire/pakistan-rupee",
+    "PerformanceScore": 0.68,
+    "LCPms": 2802,
+    "ReceivedAt": "2025-11-01T17:55:20.9122027+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/calculating",
+    "PerformanceScore": 0.66,
+    "LCPms": 3955,
+    "ReceivedAt": "2025-11-01T17:55:20.9122032+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/invoice/run",
+    "PerformanceScore": 0.79,
+    "LCPms": 3653,
+    "ReceivedAt": "2025-11-01T17:55:20.9122035+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/freeway/solid-state/com",
+    "PerformanceScore": 0.75,
+    "LCPms": 1900,
+    "ReceivedAt": "2025-11-01T17:55:20.9122041+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/drives/out-of-the-box/b2b",
+    "PerformanceScore": 0.71,
+    "LCPms": 3677,
+    "ReceivedAt": "2025-11-01T17:55:20.9122044+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/rss/unbranded-fresh-computer/direct",
+    "PerformanceScore": 0.62,
+    "LCPms": 2297,
+    "ReceivedAt": "2025-11-01T17:55:20.9122049+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/plastic/relationships",
+    "PerformanceScore": 0.75,
+    "LCPms": 2609,
+    "ReceivedAt": "2025-11-01T17:55:20.9122053+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/withdrawal/palladium",
+    "PerformanceScore": 0.95,
+    "LCPms": 1536,
+    "ReceivedAt": "2025-11-01T17:55:20.9122057+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/refined-steel-table/infrastructures",
+    "PerformanceScore": 0.76,
+    "LCPms": 3560,
+    "ReceivedAt": "2025-11-01T17:55:20.912206+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/frozen/primary",
+    "PerformanceScore": 0.75,
+    "LCPms": 3473,
+    "ReceivedAt": "2025-11-01T17:55:20.9122065+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/bleeding-edge",
+    "PerformanceScore": 0.86,
+    "LCPms": 2686,
+    "ReceivedAt": "2025-11-01T17:55:20.9122069+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/unbranded-frozen-keyboard",
+    "PerformanceScore": 0.77,
+    "LCPms": 2563,
+    "ReceivedAt": "2025-11-01T17:55:20.9122073+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/adp",
+    "PerformanceScore": 0.85,
+    "LCPms": 3757,
+    "ReceivedAt": "2025-11-01T17:55:20.9122076+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/saudi-arabia/parsing/shores",
+    "PerformanceScore": 0.81,
+    "LCPms": 3919,
+    "ReceivedAt": "2025-11-01T17:55:20.9122081+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/executive",
+    "PerformanceScore": 0.82,
+    "LCPms": 3737,
+    "ReceivedAt": "2025-11-01T17:55:20.9122084+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/interactive/home-loan-account/input",
+    "PerformanceScore": 0.87,
+    "LCPms": 3167,
+    "ReceivedAt": "2025-11-01T17:55:20.9122088+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/rustic/cedi/inverse",
+    "PerformanceScore": 0.93,
+    "LCPms": 3322,
+    "ReceivedAt": "2025-11-01T17:55:20.9122092+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/invoice/ib/wooden",
+    "PerformanceScore": 0.83,
+    "LCPms": 2446,
+    "ReceivedAt": "2025-11-01T17:55:20.9122096+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/magenta",
+    "PerformanceScore": 0.87,
+    "LCPms": 2247,
+    "ReceivedAt": "2025-11-01T17:55:20.9122099+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/versatile",
+    "PerformanceScore": 0.67,
+    "LCPms": 3634,
+    "ReceivedAt": "2025-11-01T17:55:20.9122104+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/enhance",
+    "PerformanceScore": 0.62,
+    "LCPms": 3331,
+    "ReceivedAt": "2025-11-01T17:55:20.9122107+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/bridge",
+    "PerformanceScore": 0.95,
+    "LCPms": 2552,
+    "ReceivedAt": "2025-11-01T17:55:20.9122111+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/relationships",
+    "PerformanceScore": 0.68,
+    "LCPms": 2207,
+    "ReceivedAt": "2025-11-01T17:55:20.9122115+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/microchip/small-wooden-chicken",
+    "PerformanceScore": 0.89,
+    "LCPms": 1940,
+    "ReceivedAt": "2025-11-01T17:55:20.9122118+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/falkland-islands-malvinas/sql",
+    "PerformanceScore": 0.8,
+    "LCPms": 2948,
+    "ReceivedAt": "2025-11-01T17:55:20.9122122+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/communications/pci/withdrawal",
+    "PerformanceScore": 0.88,
+    "LCPms": 3235,
+    "ReceivedAt": "2025-11-01T17:55:20.9122126+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/multi-byte",
+    "PerformanceScore": 0.92,
+    "LCPms": 2804,
+    "ReceivedAt": "2025-11-01T17:55:20.912213+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/fresh",
+    "PerformanceScore": 0.79,
+    "LCPms": 1756,
+    "ReceivedAt": "2025-11-01T17:55:20.9122134+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/viaduct",
+    "PerformanceScore": 0.6,
+    "LCPms": 3955,
+    "ReceivedAt": "2025-11-01T17:55:20.9122137+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/generate",
+    "PerformanceScore": 0.7,
+    "LCPms": 3784,
+    "ReceivedAt": "2025-11-01T17:55:20.9122142+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/paradigm/internet-solution/handmade-wooden-salad",
+    "PerformanceScore": 0.64,
+    "LCPms": 3479,
+    "ReceivedAt": "2025-11-01T17:55:20.9122145+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/oklahoma/intelligent",
+    "PerformanceScore": 0.78,
+    "LCPms": 2128,
+    "ReceivedAt": "2025-11-01T17:55:20.912215+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/kuwaiti-dinar/mobility/refined-granite-ball",
+    "PerformanceScore": 0.87,
+    "LCPms": 2734,
+    "ReceivedAt": "2025-11-01T17:55:20.9122154+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/ability/indexing/indiana",
+    "PerformanceScore": 0.67,
+    "LCPms": 3410,
+    "ReceivedAt": "2025-11-01T17:55:20.9122158+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/isle/compelling",
+    "PerformanceScore": 0.72,
+    "LCPms": 2587,
+    "ReceivedAt": "2025-11-01T17:55:20.9122162+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/innovate",
+    "PerformanceScore": 0.72,
+    "LCPms": 2746,
+    "ReceivedAt": "2025-11-01T17:55:20.9122167+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/awesome-rubber-car",
+    "PerformanceScore": 0.67,
+    "LCPms": 3738,
+    "ReceivedAt": "2025-11-01T17:55:20.9122169+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/russian-federation/methodical/refined-soft-chair",
+    "PerformanceScore": 0.82,
+    "LCPms": 2861,
+    "ReceivedAt": "2025-11-01T17:55:20.9122174+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/puerto-rico/multi-channelled/eyeballs",
+    "PerformanceScore": 0.63,
+    "LCPms": 2139,
+    "ReceivedAt": "2025-11-01T17:55:20.9122178+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/maximize",
+    "PerformanceScore": 0.93,
+    "LCPms": 1737,
+    "ReceivedAt": "2025-11-01T17:55:20.9122183+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/rubber/new-zealand-dollar",
+    "PerformanceScore": 0.98,
+    "LCPms": 2410,
+    "ReceivedAt": "2025-11-01T17:55:20.9122186+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/strategist/web",
+    "PerformanceScore": 0.98,
+    "LCPms": 1929,
+    "ReceivedAt": "2025-11-01T17:55:20.9122198+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/logistical/throughput/tactics",
+    "PerformanceScore": 1,
+    "LCPms": 2776,
+    "ReceivedAt": "2025-11-01T17:55:20.9122202+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/back-up/whiteboard/electronics-industrial--home",
+    "PerformanceScore": 0.88,
+    "LCPms": 3440,
+    "ReceivedAt": "2025-11-01T17:55:20.9122207+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/teal",
+    "PerformanceScore": 0.75,
+    "LCPms": 3461,
+    "ReceivedAt": "2025-11-01T17:55:20.912221+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/actuating/brand/intelligent-metal-salad",
+    "PerformanceScore": 0.87,
+    "LCPms": 2213,
+    "ReceivedAt": "2025-11-01T17:55:20.9122214+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/users/directional",
+    "PerformanceScore": 0.63,
+    "LCPms": 3223,
+    "ReceivedAt": "2025-11-01T17:55:20.9122218+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/ramp",
+    "PerformanceScore": 0.8,
+    "LCPms": 2456,
+    "ReceivedAt": "2025-11-01T17:55:20.9122223+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/vatu",
+    "PerformanceScore": 0.76,
+    "LCPms": 1679,
+    "ReceivedAt": "2025-11-01T17:55:20.9122225+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/input/intelligent-wooden-keyboard/tennessee",
+    "PerformanceScore": 0.62,
+    "LCPms": 3632,
+    "ReceivedAt": "2025-11-01T17:55:20.912223+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/json/credit-card-account",
+    "PerformanceScore": 0.84,
+    "LCPms": 1501,
+    "ReceivedAt": "2025-11-01T17:55:20.9122233+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/personal-loan-account/help-desk/small-steel-shoes",
+    "PerformanceScore": 0.65,
+    "LCPms": 1792,
+    "ReceivedAt": "2025-11-01T17:55:20.9122239+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/division",
+    "PerformanceScore": 0.7,
+    "LCPms": 3054,
+    "ReceivedAt": "2025-11-01T17:55:20.9122242+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/intelligent/product",
+    "PerformanceScore": 0.63,
+    "LCPms": 3612,
+    "ReceivedAt": "2025-11-01T17:55:20.9122247+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/frictionless/run",
+    "PerformanceScore": 0.79,
+    "LCPms": 1636,
+    "ReceivedAt": "2025-11-01T17:55:20.912225+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/bedfordshire/ameliorated/rhode-island",
+    "PerformanceScore": 0.71,
+    "LCPms": 2643,
+    "ReceivedAt": "2025-11-01T17:55:20.9122255+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/handcrafted-wooden-table",
+    "PerformanceScore": 0.83,
+    "LCPms": 3797,
+    "ReceivedAt": "2025-11-01T17:55:20.912226+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/soft/granite",
+    "PerformanceScore": 0.62,
+    "LCPms": 2431,
+    "ReceivedAt": "2025-11-01T17:55:20.9122264+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/sleek/invoice",
+    "PerformanceScore": 0.68,
+    "LCPms": 3292,
+    "ReceivedAt": "2025-11-01T17:55:20.9122267+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/plum/manager",
+    "PerformanceScore": 0.96,
+    "LCPms": 2823,
+    "ReceivedAt": "2025-11-01T17:55:20.9122273+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/practical-steel-tuna",
+    "PerformanceScore": 0.76,
+    "LCPms": 3910,
+    "ReceivedAt": "2025-11-01T17:55:20.9122276+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/transmit/trail",
+    "PerformanceScore": 0.76,
+    "LCPms": 3481,
+    "ReceivedAt": "2025-11-01T17:55:20.9122281+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/operative/hub",
+    "PerformanceScore": 0.9,
+    "LCPms": 2729,
+    "ReceivedAt": "2025-11-01T17:55:20.9122285+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/back-up/handmade-soft-computer/backing-up",
+    "PerformanceScore": 0.65,
+    "LCPms": 1564,
+    "ReceivedAt": "2025-11-01T17:55:20.9122289+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/handcrafted",
+    "PerformanceScore": 0.68,
+    "LCPms": 2440,
+    "ReceivedAt": "2025-11-01T17:55:20.9122294+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/circuit/incredible-plastic-pizza/multi-lateral",
+    "PerformanceScore": 0.98,
+    "LCPms": 2729,
+    "ReceivedAt": "2025-11-01T17:55:20.9122299+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/executive/bedfordshire",
+    "PerformanceScore": 0.69,
+    "LCPms": 1520,
+    "ReceivedAt": "2025-11-01T17:55:20.9122302+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/awesome",
+    "PerformanceScore": 0.82,
+    "LCPms": 2539,
+    "ReceivedAt": "2025-11-01T17:55:20.9122307+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/fully-configurable/infrastructures/identity",
+    "PerformanceScore": 0.91,
+    "LCPms": 2893,
+    "ReceivedAt": "2025-11-01T17:55:20.912231+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/olive",
+    "PerformanceScore": 0.71,
+    "LCPms": 3282,
+    "ReceivedAt": "2025-11-01T17:55:20.9122315+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/yellow",
+    "PerformanceScore": 0.97,
+    "LCPms": 1882,
+    "ReceivedAt": "2025-11-01T17:55:20.9122317+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/pike/exclusive/unbranded-granite-ball",
+    "PerformanceScore": 0.78,
+    "LCPms": 2606,
+    "ReceivedAt": "2025-11-01T17:55:20.9122322+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/horizontal/indigo/practical-granite-shoes",
+    "PerformanceScore": 0.76,
+    "LCPms": 3797,
+    "ReceivedAt": "2025-11-01T17:55:20.9122326+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/savings-account",
+    "PerformanceScore": 0.77,
+    "LCPms": 1696,
+    "ReceivedAt": "2025-11-01T17:55:20.912233+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/ferry/extended/handmade-steel-towels",
+    "PerformanceScore": 0.76,
+    "LCPms": 3341,
+    "ReceivedAt": "2025-11-01T17:55:20.9122334+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/streamlined/overriding",
+    "PerformanceScore": 0.95,
+    "LCPms": 1566,
+    "ReceivedAt": "2025-11-01T17:55:20.912234+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/program/refined-cotton-computer",
+    "PerformanceScore": 0.73,
+    "LCPms": 2381,
+    "ReceivedAt": "2025-11-01T17:55:20.9122343+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/licensed-frozen-car/rss",
+    "PerformanceScore": 0.73,
+    "LCPms": 2677,
+    "ReceivedAt": "2025-11-01T17:55:20.9122348+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/adp/ssl",
+    "PerformanceScore": 0.78,
+    "LCPms": 3244,
+    "ReceivedAt": "2025-11-01T17:55:20.9122352+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/1080p/incredible",
+    "PerformanceScore": 0.79,
+    "LCPms": 3630,
+    "ReceivedAt": "2025-11-01T17:55:20.9122356+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/tactics/illinois",
+    "PerformanceScore": 0.86,
+    "LCPms": 2172,
+    "ReceivedAt": "2025-11-01T17:55:20.912236+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/illinois/application",
+    "PerformanceScore": 0.64,
+    "LCPms": 2012,
+    "ReceivedAt": "2025-11-01T17:55:20.9122364+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/clothing--music/sas",
+    "PerformanceScore": 0.97,
+    "LCPms": 3112,
+    "ReceivedAt": "2025-11-01T17:55:20.9122371+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/ergonomic-concrete-tuna/unbranded-frozen-bike/transmitter",
+    "PerformanceScore": 0.93,
+    "LCPms": 2782,
+    "ReceivedAt": "2025-11-01T17:55:20.9122376+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/ways/systems",
+    "PerformanceScore": 0.64,
+    "LCPms": 1661,
+    "ReceivedAt": "2025-11-01T17:55:20.9122379+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/jordan/redundant/place",
+    "PerformanceScore": 0.99,
+    "LCPms": 2978,
+    "ReceivedAt": "2025-11-01T17:55:20.9122383+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/instruction-set/utah/generic-metal-soap",
+    "PerformanceScore": 1,
+    "LCPms": 2758,
+    "ReceivedAt": "2025-11-01T17:55:20.9122387+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/buckinghamshire/plastic",
+    "PerformanceScore": 0.64,
+    "LCPms": 1785,
+    "ReceivedAt": "2025-11-01T17:55:20.9122391+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/rustic",
+    "PerformanceScore": 0.78,
+    "LCPms": 3250,
+    "ReceivedAt": "2025-11-01T17:55:20.9122395+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/reciprocal",
+    "PerformanceScore": 0.98,
+    "LCPms": 3232,
+    "ReceivedAt": "2025-11-01T17:55:20.9122399+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/georgia",
+    "PerformanceScore": 0.91,
+    "LCPms": 3136,
+    "ReceivedAt": "2025-11-01T17:55:20.9122402+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/quantify",
+    "PerformanceScore": 0.7,
+    "LCPms": 2789,
+    "ReceivedAt": "2025-11-01T17:55:20.9122406+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/bottom-line/xml/users",
+    "PerformanceScore": 0.92,
+    "LCPms": 1567,
+    "ReceivedAt": "2025-11-01T17:55:20.9122409+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/enhanced",
+    "PerformanceScore": 0.99,
+    "LCPms": 3616,
+    "ReceivedAt": "2025-11-01T17:55:20.9122414+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/purple/monitored/disintermediate",
+    "PerformanceScore": 0.79,
+    "LCPms": 3422,
+    "ReceivedAt": "2025-11-01T17:55:20.9122417+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/small-cotton-chair",
+    "PerformanceScore": 0.94,
+    "LCPms": 2908,
+    "ReceivedAt": "2025-11-01T17:55:20.9122422+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/indexing/indigo",
+    "PerformanceScore": 0.71,
+    "LCPms": 2084,
+    "ReceivedAt": "2025-11-01T17:55:20.9122425+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/cliff/tunisian-dinar",
+    "PerformanceScore": 0.83,
+    "LCPms": 1528,
+    "ReceivedAt": "2025-11-01T17:55:20.912243+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/planner/practical-soft-pants/port",
+    "PerformanceScore": 0.74,
+    "LCPms": 2520,
+    "ReceivedAt": "2025-11-01T17:55:20.9122433+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/vertical",
+    "PerformanceScore": 0.8,
+    "LCPms": 2198,
+    "ReceivedAt": "2025-11-01T17:55:20.9122438+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/pci",
+    "PerformanceScore": 0.86,
+    "LCPms": 1883,
+    "ReceivedAt": "2025-11-01T17:55:20.912244+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/middleware/transmitting/customer-loyalty",
+    "PerformanceScore": 0.72,
+    "LCPms": 1571,
+    "ReceivedAt": "2025-11-01T17:55:20.9122445+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/forint/ergonomic-rubber-sausages/hacking",
+    "PerformanceScore": 0.82,
+    "LCPms": 2862,
+    "ReceivedAt": "2025-11-01T17:55:20.9122449+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/applications",
+    "PerformanceScore": 0.86,
+    "LCPms": 2816,
+    "ReceivedAt": "2025-11-01T17:55:20.9122453+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/firewall/css",
+    "PerformanceScore": 0.89,
+    "LCPms": 1587,
+    "ReceivedAt": "2025-11-01T17:55:20.9122457+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/dynamic",
+    "PerformanceScore": 0.71,
+    "LCPms": 2442,
+    "ReceivedAt": "2025-11-01T17:55:20.9122462+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/rubber/intelligent-fresh-chicken/north-carolina",
+    "PerformanceScore": 0.71,
+    "LCPms": 3479,
+    "ReceivedAt": "2025-11-01T17:55:20.9122465+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/ai/berkshire/kids",
+    "PerformanceScore": 0.98,
+    "LCPms": 1644,
+    "ReceivedAt": "2025-11-01T17:55:20.9122469+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/research/generate",
+    "PerformanceScore": 0.63,
+    "LCPms": 2023,
+    "ReceivedAt": "2025-11-01T17:55:20.9122473+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/triple-buffered/synergy",
+    "PerformanceScore": 0.64,
+    "LCPms": 2223,
+    "ReceivedAt": "2025-11-01T17:55:20.9122477+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/transmit",
+    "PerformanceScore": 0.78,
+    "LCPms": 2627,
+    "ReceivedAt": "2025-11-01T17:55:20.912248+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/rapid/gorgeous-metal-hat/solid-state",
+    "PerformanceScore": 0.66,
+    "LCPms": 3916,
+    "ReceivedAt": "2025-11-01T17:55:20.9122486+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/sleek/relationships",
+    "PerformanceScore": 0.67,
+    "LCPms": 2930,
+    "ReceivedAt": "2025-11-01T17:55:20.9122489+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/fantastic/fantastic-granite-table/interactions",
+    "PerformanceScore": 0.68,
+    "LCPms": 2248,
+    "ReceivedAt": "2025-11-01T17:55:20.9122495+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/olive/hacking/quantify",
+    "PerformanceScore": 0.94,
+    "LCPms": 3998,
+    "ReceivedAt": "2025-11-01T17:55:20.9122498+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/idaho/index",
+    "PerformanceScore": 0.97,
+    "LCPms": 2219,
+    "ReceivedAt": "2025-11-01T17:55:20.9122504+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/sleek-metal-shirt/uzbekistan-sum",
+    "PerformanceScore": 0.69,
+    "LCPms": 2355,
+    "ReceivedAt": "2025-11-01T17:55:20.9122508+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/neural",
+    "PerformanceScore": 0.71,
+    "LCPms": 3634,
+    "ReceivedAt": "2025-11-01T17:55:20.9122512+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/parse",
+    "PerformanceScore": 0.82,
+    "LCPms": 3339,
+    "ReceivedAt": "2025-11-01T17:55:20.9122515+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/violet/shoal/programming",
+    "PerformanceScore": 0.91,
+    "LCPms": 1526,
+    "ReceivedAt": "2025-11-01T17:55:20.9122519+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/seamless/falkland-islands-malvinas",
+    "PerformanceScore": 0.81,
+    "LCPms": 3607,
+    "ReceivedAt": "2025-11-01T17:55:20.9122522+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/lodge/backing-up/marketing",
+    "PerformanceScore": 0.97,
+    "LCPms": 1788,
+    "ReceivedAt": "2025-11-01T17:55:20.9122527+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/navigating/mobile",
+    "PerformanceScore": 0.79,
+    "LCPms": 2868,
+    "ReceivedAt": "2025-11-01T17:55:20.912253+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/fresh",
+    "PerformanceScore": 0.89,
+    "LCPms": 3196,
+    "ReceivedAt": "2025-11-01T17:55:20.912254+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/dynamic",
+    "PerformanceScore": 0.63,
+    "LCPms": 3957,
+    "ReceivedAt": "2025-11-01T17:55:20.9122544+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/national",
+    "PerformanceScore": 0.69,
+    "LCPms": 3059,
+    "ReceivedAt": "2025-11-01T17:55:20.9122549+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/bedfordshire/bypassing/money-market-account",
+    "PerformanceScore": 0.83,
+    "LCPms": 3420,
+    "ReceivedAt": "2025-11-01T17:55:20.9122552+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/rubber/concrete",
+    "PerformanceScore": 0.95,
+    "LCPms": 1608,
+    "ReceivedAt": "2025-11-01T17:55:20.9122557+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/small",
+    "PerformanceScore": 0.97,
+    "LCPms": 3547,
+    "ReceivedAt": "2025-11-01T17:55:20.9122562+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/kansas",
+    "PerformanceScore": 0.95,
+    "LCPms": 2035,
+    "ReceivedAt": "2025-11-01T17:55:20.9122567+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/extension/toolset/rss",
+    "PerformanceScore": 0.8,
+    "LCPms": 2355,
+    "ReceivedAt": "2025-11-01T17:55:20.912257+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/unbranded-wooden-fish/senior",
+    "PerformanceScore": 0.74,
+    "LCPms": 2896,
+    "ReceivedAt": "2025-11-01T17:55:20.9122575+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/investment-account/gorgeous-steel-hat",
+    "PerformanceScore": 0.75,
+    "LCPms": 3326,
+    "ReceivedAt": "2025-11-01T17:55:20.9122579+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/intelligent",
+    "PerformanceScore": 0.68,
+    "LCPms": 2830,
+    "ReceivedAt": "2025-11-01T17:55:20.9122584+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/tasty-soft-sausages/bypass",
+    "PerformanceScore": 0.96,
+    "LCPms": 3872,
+    "ReceivedAt": "2025-11-01T17:55:20.9122587+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/dynamic/focus-group/response",
+    "PerformanceScore": 0.98,
+    "LCPms": 3324,
+    "ReceivedAt": "2025-11-01T17:55:20.9122591+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/users/personal-loan-account",
+    "PerformanceScore": 0.64,
+    "LCPms": 3151,
+    "ReceivedAt": "2025-11-01T17:55:20.9122594+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/haven/object-based/parsing",
+    "PerformanceScore": 0.95,
+    "LCPms": 2364,
+    "ReceivedAt": "2025-11-01T17:55:20.9122599+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/generate/data/cambridgeshire",
+    "PerformanceScore": 0.92,
+    "LCPms": 3856,
+    "ReceivedAt": "2025-11-01T17:55:20.9122603+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/rubber",
+    "PerformanceScore": 0.87,
+    "LCPms": 3708,
+    "ReceivedAt": "2025-11-01T17:55:20.9122608+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/hard-drive/envisioneer",
+    "PerformanceScore": 0.65,
+    "LCPms": 1907,
+    "ReceivedAt": "2025-11-01T17:55:20.9122611+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/support/tasty-metal-shirt/architect",
+    "PerformanceScore": 0.68,
+    "LCPms": 3686,
+    "ReceivedAt": "2025-11-01T17:55:20.9122615+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/business-focused/incentivize/reboot",
+    "PerformanceScore": 0.61,
+    "LCPms": 3511,
+    "ReceivedAt": "2025-11-01T17:55:20.9122619+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/borders",
+    "PerformanceScore": 0.98,
+    "LCPms": 3008,
+    "ReceivedAt": "2025-11-01T17:55:20.9122624+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/3rd-generation/outdoors",
+    "PerformanceScore": 0.94,
+    "LCPms": 3357,
+    "ReceivedAt": "2025-11-01T17:55:20.9122626+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/microchip/sleek-concrete-keyboard",
+    "PerformanceScore": 0.87,
+    "LCPms": 3329,
+    "ReceivedAt": "2025-11-01T17:55:20.9122631+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/withdrawal",
+    "PerformanceScore": 0.81,
+    "LCPms": 2664,
+    "ReceivedAt": "2025-11-01T17:55:20.9122635+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/chief/customized",
+    "PerformanceScore": 0.98,
+    "LCPms": 2294,
+    "ReceivedAt": "2025-11-01T17:55:20.9122638+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/function-based/granite",
+    "PerformanceScore": 0.71,
+    "LCPms": 1554,
+    "ReceivedAt": "2025-11-01T17:55:20.9122645+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/payment",
+    "PerformanceScore": 0.61,
+    "LCPms": 2846,
+    "ReceivedAt": "2025-11-01T17:55:20.912265+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/innovate/alarm",
+    "PerformanceScore": 0.85,
+    "LCPms": 2761,
+    "ReceivedAt": "2025-11-01T17:55:20.9122653+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/capability",
+    "PerformanceScore": 0.85,
+    "LCPms": 3333,
+    "ReceivedAt": "2025-11-01T17:55:20.9122657+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/via/west-virginia/wisconsin",
+    "PerformanceScore": 0.77,
+    "LCPms": 3221,
+    "ReceivedAt": "2025-11-01T17:55:20.9122661+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/bedfordshire/tasty-concrete-soap/implementation",
+    "PerformanceScore": 0.79,
+    "LCPms": 1946,
+    "ReceivedAt": "2025-11-01T17:55:20.9122666+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/virtual/director",
+    "PerformanceScore": 0.76,
+    "LCPms": 3245,
+    "ReceivedAt": "2025-11-01T17:55:20.9122669+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/investment-account",
+    "PerformanceScore": 0.83,
+    "LCPms": 1890,
+    "ReceivedAt": "2025-11-01T17:55:20.9122674+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/exe/new-hampshire",
+    "PerformanceScore": 0.61,
+    "LCPms": 1626,
+    "ReceivedAt": "2025-11-01T17:55:20.9122677+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/representative/michigan/extranet",
+    "PerformanceScore": 0.98,
+    "LCPms": 1817,
+    "ReceivedAt": "2025-11-01T17:55:20.9122682+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/adp",
+    "PerformanceScore": 0.61,
+    "LCPms": 3810,
+    "ReceivedAt": "2025-11-01T17:55:20.9122685+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/plastic/health--computers/executive",
+    "PerformanceScore": 0.72,
+    "LCPms": 3869,
+    "ReceivedAt": "2025-11-01T17:55:20.912269+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/station",
+    "PerformanceScore": 0.86,
+    "LCPms": 2801,
+    "ReceivedAt": "2025-11-01T17:55:20.9122693+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/personal-loan-account/personal-loan-account/streamline",
+    "PerformanceScore": 0.71,
+    "LCPms": 3260,
+    "ReceivedAt": "2025-11-01T17:55:20.9122699+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/primary/frozen/burkina-faso",
+    "PerformanceScore": 0.74,
+    "LCPms": 2924,
+    "ReceivedAt": "2025-11-01T17:55:20.9122703+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/feed/back-up/infrastructure",
+    "PerformanceScore": 0.73,
+    "LCPms": 3499,
+    "ReceivedAt": "2025-11-01T17:55:20.9122707+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/transitional/director",
+    "PerformanceScore": 0.81,
+    "LCPms": 2078,
+    "ReceivedAt": "2025-11-01T17:55:20.9122716+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/crescent/real-time/whiteboard",
+    "PerformanceScore": 0.91,
+    "LCPms": 2490,
+    "ReceivedAt": "2025-11-01T17:55:20.912272+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/identity",
+    "PerformanceScore": 0.86,
+    "LCPms": 1529,
+    "ReceivedAt": "2025-11-01T17:55:20.9122724+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/italy/cambridgeshire",
+    "PerformanceScore": 0.71,
+    "LCPms": 2276,
+    "ReceivedAt": "2025-11-01T17:55:20.9122728+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/framework/intermediate",
+    "PerformanceScore": 0.73,
+    "LCPms": 2944,
+    "ReceivedAt": "2025-11-01T17:55:20.9122732+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/local-area-network",
+    "PerformanceScore": 0.8,
+    "LCPms": 3032,
+    "ReceivedAt": "2025-11-01T17:55:20.9122737+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/open-source",
+    "PerformanceScore": 0.69,
+    "LCPms": 2920,
+    "ReceivedAt": "2025-11-01T17:55:20.912274+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/synergies",
+    "PerformanceScore": 0.9,
+    "LCPms": 3989,
+    "ReceivedAt": "2025-11-01T17:55:20.9122744+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/neural",
+    "PerformanceScore": 0.8,
+    "LCPms": 1963,
+    "ReceivedAt": "2025-11-01T17:55:20.9122747+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/ergonomic/pixel",
+    "PerformanceScore": 0.67,
+    "LCPms": 2398,
+    "ReceivedAt": "2025-11-01T17:55:20.9122752+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/switzerland/fuchsia",
+    "PerformanceScore": 0.95,
+    "LCPms": 2288,
+    "ReceivedAt": "2025-11-01T17:55:20.9122755+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/embrace/rss",
+    "PerformanceScore": 0.97,
+    "LCPms": 1969,
+    "ReceivedAt": "2025-11-01T17:55:20.912276+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/mobility/blue/gabon",
+    "PerformanceScore": 0.96,
+    "LCPms": 3032,
+    "ReceivedAt": "2025-11-01T17:55:20.9122763+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/principal/handcrafted-granite-salad/aggregate",
+    "PerformanceScore": 0.87,
+    "LCPms": 1840,
+    "ReceivedAt": "2025-11-01T17:55:20.9122769+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/shoes/envisioneer/circle",
+    "PerformanceScore": 0.69,
+    "LCPms": 3692,
+    "ReceivedAt": "2025-11-01T17:55:20.9122773+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/united-states-of-america",
+    "PerformanceScore": 0.96,
+    "LCPms": 3887,
+    "ReceivedAt": "2025-11-01T17:55:20.9122776+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/pines/generate/israel",
+    "PerformanceScore": 0.85,
+    "LCPms": 2575,
+    "ReceivedAt": "2025-11-01T17:55:20.9122779+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/incredible-granite-ball",
+    "PerformanceScore": 0.9,
+    "LCPms": 1844,
+    "ReceivedAt": "2025-11-01T17:55:20.9122784+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/intuitive",
+    "PerformanceScore": 0.85,
+    "LCPms": 1927,
+    "ReceivedAt": "2025-11-01T17:55:20.9122788+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/roi/personal-loan-account/concrete",
+    "PerformanceScore": 0.93,
+    "LCPms": 1516,
+    "ReceivedAt": "2025-11-01T17:55:20.9122792+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/awesome-frozen-shoes",
+    "PerformanceScore": 0.93,
+    "LCPms": 2166,
+    "ReceivedAt": "2025-11-01T17:55:20.9122795+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/circuit",
+    "PerformanceScore": 0.83,
+    "LCPms": 2092,
+    "ReceivedAt": "2025-11-01T17:55:20.91228+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/money-market-account/gb",
+    "PerformanceScore": 0.91,
+    "LCPms": 2734,
+    "ReceivedAt": "2025-11-01T17:55:20.9122802+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/berkshire/system",
+    "PerformanceScore": 0.99,
+    "LCPms": 3461,
+    "ReceivedAt": "2025-11-01T17:55:20.9122807+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/envisioneer/auxiliary/alarm",
+    "PerformanceScore": 0.97,
+    "LCPms": 3492,
+    "ReceivedAt": "2025-11-01T17:55:20.9122811+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/paradigms/payment",
+    "PerformanceScore": 0.73,
+    "LCPms": 3461,
+    "ReceivedAt": "2025-11-01T17:55:20.9122815+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/refined-wooden-hat",
+    "PerformanceScore": 0.63,
+    "LCPms": 2843,
+    "ReceivedAt": "2025-11-01T17:55:20.9122819+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/pennsylvania",
+    "PerformanceScore": 0.98,
+    "LCPms": 2318,
+    "ReceivedAt": "2025-11-01T17:55:20.9122825+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/iowa/senior",
+    "PerformanceScore": 0.71,
+    "LCPms": 3716,
+    "ReceivedAt": "2025-11-01T17:55:20.9122828+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/curve",
+    "PerformanceScore": 0.9,
+    "LCPms": 2940,
+    "ReceivedAt": "2025-11-01T17:55:20.9122833+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/generic-fresh-shirt",
+    "PerformanceScore": 0.66,
+    "LCPms": 3321,
+    "ReceivedAt": "2025-11-01T17:55:20.9122836+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/reduced",
+    "PerformanceScore": 0.61,
+    "LCPms": 2088,
+    "ReceivedAt": "2025-11-01T17:55:20.9122841+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/bifurcated/island/agent",
+    "PerformanceScore": 0.81,
+    "LCPms": 2806,
+    "ReceivedAt": "2025-11-01T17:55:20.9122844+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/global/high-level/back-up",
+    "PerformanceScore": 0.79,
+    "LCPms": 2648,
+    "ReceivedAt": "2025-11-01T17:55:20.9122849+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/drive/dominican-peso/payment",
+    "PerformanceScore": 0.99,
+    "LCPms": 3111,
+    "ReceivedAt": "2025-11-01T17:55:20.9122852+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/cambridgeshire/sensor/olive",
+    "PerformanceScore": 0.77,
+    "LCPms": 3533,
+    "ReceivedAt": "2025-11-01T17:55:20.9122857+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/practical/taka/ergonomic",
+    "PerformanceScore": 0.95,
+    "LCPms": 3002,
+    "ReceivedAt": "2025-11-01T17:55:20.912286+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/unbranded/robust/input",
+    "PerformanceScore": 0.88,
+    "LCPms": 3886,
+    "ReceivedAt": "2025-11-01T17:55:20.9122865+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/primary/algorithm",
+    "PerformanceScore": 0.93,
+    "LCPms": 1586,
+    "ReceivedAt": "2025-11-01T17:55:20.9122869+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/fiji/public-key/deposit",
+    "PerformanceScore": 0.84,
+    "LCPms": 3117,
+    "ReceivedAt": "2025-11-01T17:55:20.9122874+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/disintermediate",
+    "PerformanceScore": 0.75,
+    "LCPms": 2990,
+    "ReceivedAt": "2025-11-01T17:55:20.9122879+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/switchable",
+    "PerformanceScore": 0.96,
+    "LCPms": 2353,
+    "ReceivedAt": "2025-11-01T17:55:20.9122889+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/kentucky",
+    "PerformanceScore": 0.6,
+    "LCPms": 2158,
+    "ReceivedAt": "2025-11-01T17:55:20.9122893+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/mali/rustic-wooden-mouse",
+    "PerformanceScore": 0.82,
+    "LCPms": 2642,
+    "ReceivedAt": "2025-11-01T17:55:20.9122897+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/won/rustic-plastic-table/css",
+    "PerformanceScore": 0.65,
+    "LCPms": 2588,
+    "ReceivedAt": "2025-11-01T17:55:20.91229+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/customer/shoes-jewelery--sports/tennessee",
+    "PerformanceScore": 0.92,
+    "LCPms": 2566,
+    "ReceivedAt": "2025-11-01T17:55:20.9122906+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/invoice/red/internal",
+    "PerformanceScore": 0.73,
+    "LCPms": 2427,
+    "ReceivedAt": "2025-11-01T17:55:20.9122909+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/district",
+    "PerformanceScore": 0.77,
+    "LCPms": 2120,
+    "ReceivedAt": "2025-11-01T17:55:20.9122913+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/ergonomic/empower/b2c",
+    "PerformanceScore": 0.94,
+    "LCPms": 1586,
+    "ReceivedAt": "2025-11-01T17:55:20.9122916+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/payment",
+    "PerformanceScore": 0.65,
+    "LCPms": 3281,
+    "ReceivedAt": "2025-11-01T17:55:20.9122922+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/auto-loan-account",
+    "PerformanceScore": 0.92,
+    "LCPms": 2254,
+    "ReceivedAt": "2025-11-01T17:55:20.9122925+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/supervisor/flexibility/web-enabled",
+    "PerformanceScore": 0.9,
+    "LCPms": 2740,
+    "ReceivedAt": "2025-11-01T17:55:20.912293+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/generating/deposit",
+    "PerformanceScore": 0.77,
+    "LCPms": 3634,
+    "ReceivedAt": "2025-11-01T17:55:20.9122933+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/productivity/infomediaries/tasty",
+    "PerformanceScore": 0.84,
+    "LCPms": 2415,
+    "ReceivedAt": "2025-11-01T17:55:20.9122938+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/input/adaptive",
+    "PerformanceScore": 0.71,
+    "LCPms": 2286,
+    "ReceivedAt": "2025-11-01T17:55:20.9122941+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/users/secondary/toys",
+    "PerformanceScore": 0.67,
+    "LCPms": 3802,
+    "ReceivedAt": "2025-11-01T17:55:20.9122945+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/shoes-movies--toys",
+    "PerformanceScore": 0.64,
+    "LCPms": 2899,
+    "ReceivedAt": "2025-11-01T17:55:20.9122949+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/bypass/data",
+    "PerformanceScore": 0.6,
+    "LCPms": 3285,
+    "ReceivedAt": "2025-11-01T17:55:20.9122954+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/senior/executive/hacking",
+    "PerformanceScore": 0.6,
+    "LCPms": 3463,
+    "ReceivedAt": "2025-11-01T17:55:20.9122957+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/connecting/incredible",
+    "PerformanceScore": 0.88,
+    "LCPms": 2532,
+    "ReceivedAt": "2025-11-01T17:55:20.9122962+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/bedfordshire/alaska/adp",
+    "PerformanceScore": 0.85,
+    "LCPms": 3504,
+    "ReceivedAt": "2025-11-01T17:55:20.9122965+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/cross-platform",
+    "PerformanceScore": 0.97,
+    "LCPms": 2271,
+    "ReceivedAt": "2025-11-01T17:55:20.9122969+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/invoice/intuitive",
+    "PerformanceScore": 0.94,
+    "LCPms": 2398,
+    "ReceivedAt": "2025-11-01T17:55:20.9122972+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/uic-franc/system",
+    "PerformanceScore": 0.72,
+    "LCPms": 1981,
+    "ReceivedAt": "2025-11-01T17:55:20.9122977+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/holistic/legacy",
+    "PerformanceScore": 0.82,
+    "LCPms": 2648,
+    "ReceivedAt": "2025-11-01T17:55:20.912298+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/platforms",
+    "PerformanceScore": 0.94,
+    "LCPms": 3952,
+    "ReceivedAt": "2025-11-01T17:55:20.9122985+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/executive/indiana",
+    "PerformanceScore": 0.7,
+    "LCPms": 2923,
+    "ReceivedAt": "2025-11-01T17:55:20.9122989+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/washington/avon",
+    "PerformanceScore": 0.63,
+    "LCPms": 2624,
+    "ReceivedAt": "2025-11-01T17:55:20.9122994+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/web-enabled/grow/mayotte",
+    "PerformanceScore": 0.79,
+    "LCPms": 3133,
+    "ReceivedAt": "2025-11-01T17:55:20.9122997+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/concrete/plastic",
+    "PerformanceScore": 0.65,
+    "LCPms": 3474,
+    "ReceivedAt": "2025-11-01T17:55:20.9123002+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/ivory/cambridgeshire/hollow",
+    "PerformanceScore": 0.62,
+    "LCPms": 3391,
+    "ReceivedAt": "2025-11-01T17:55:20.9123005+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/internal",
+    "PerformanceScore": 0.81,
+    "LCPms": 2315,
+    "ReceivedAt": "2025-11-01T17:55:20.912301+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/small-steel-bacon/navigating/ghana",
+    "PerformanceScore": 0.7,
+    "LCPms": 3011,
+    "ReceivedAt": "2025-11-01T17:55:20.9123013+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/transparent/invoice/next-generation",
+    "PerformanceScore": 0.88,
+    "LCPms": 3989,
+    "ReceivedAt": "2025-11-01T17:55:20.9123017+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/morocco",
+    "PerformanceScore": 0.9,
+    "LCPms": 3753,
+    "ReceivedAt": "2025-11-01T17:55:20.9123021+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/georgia/avon/redundant",
+    "PerformanceScore": 0.75,
+    "LCPms": 2941,
+    "ReceivedAt": "2025-11-01T17:55:20.9123025+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/pakistan-rupee",
+    "PerformanceScore": 0.63,
+    "LCPms": 1530,
+    "ReceivedAt": "2025-11-01T17:55:20.9123029+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/savings-account",
+    "PerformanceScore": 0.9,
+    "LCPms": 2244,
+    "ReceivedAt": "2025-11-01T17:55:20.9123036+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/unbranded-rubber-chips/navigate/usb",
+    "PerformanceScore": 0.95,
+    "LCPms": 3421,
+    "ReceivedAt": "2025-11-01T17:55:20.9123039+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/exuding/cross-platform",
+    "PerformanceScore": 0.76,
+    "LCPms": 3473,
+    "ReceivedAt": "2025-11-01T17:55:20.9123043+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/wireless",
+    "PerformanceScore": 0.63,
+    "LCPms": 1555,
+    "ReceivedAt": "2025-11-01T17:55:20.9123046+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/senior/steel/24365",
+    "PerformanceScore": 0.71,
+    "LCPms": 2214,
+    "ReceivedAt": "2025-11-01T17:55:20.9123051+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/incredible-concrete-fish/borders",
+    "PerformanceScore": 1,
+    "LCPms": 2553,
+    "ReceivedAt": "2025-11-01T17:55:20.9123058+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/pixel/refined",
+    "PerformanceScore": 0.76,
+    "LCPms": 2025,
+    "ReceivedAt": "2025-11-01T17:55:20.9123063+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/copy/circle/synergized",
+    "PerformanceScore": 0.82,
+    "LCPms": 1791,
+    "ReceivedAt": "2025-11-01T17:55:20.9123066+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/xss/application",
+    "PerformanceScore": 0.83,
+    "LCPms": 2055,
+    "ReceivedAt": "2025-11-01T17:55:20.9123071+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/passage",
+    "PerformanceScore": 0.65,
+    "LCPms": 3076,
+    "ReceivedAt": "2025-11-01T17:55:20.9123075+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/xss/handcrafted-frozen-table",
+    "PerformanceScore": 0.87,
+    "LCPms": 3778,
+    "ReceivedAt": "2025-11-01T17:55:20.912308+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/architectures/input",
+    "PerformanceScore": 0.67,
+    "LCPms": 1848,
+    "ReceivedAt": "2025-11-01T17:55:20.9123083+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/action-items/handmade-steel-car",
+    "PerformanceScore": 0.94,
+    "LCPms": 2780,
+    "ReceivedAt": "2025-11-01T17:55:20.9123087+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/synthesizing/scalable",
+    "PerformanceScore": 0.79,
+    "LCPms": 2124,
+    "ReceivedAt": "2025-11-01T17:55:20.9123091+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/override",
+    "PerformanceScore": 0.85,
+    "LCPms": 2452,
+    "ReceivedAt": "2025-11-01T17:55:20.9123096+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/global/aruban-guilder",
+    "PerformanceScore": 0.72,
+    "LCPms": 2170,
+    "ReceivedAt": "2025-11-01T17:55:20.9123098+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/seamless",
+    "PerformanceScore": 0.79,
+    "LCPms": 3982,
+    "ReceivedAt": "2025-11-01T17:55:20.9123104+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/circle/frozen",
+    "PerformanceScore": 0.88,
+    "LCPms": 3993,
+    "ReceivedAt": "2025-11-01T17:55:20.9123107+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/cross-platform",
+    "PerformanceScore": 0.78,
+    "LCPms": 2331,
+    "ReceivedAt": "2025-11-01T17:55:20.9123113+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/exe",
+    "PerformanceScore": 0.97,
+    "LCPms": 3786,
+    "ReceivedAt": "2025-11-01T17:55:20.9123115+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/international/static",
+    "PerformanceScore": 0.73,
+    "LCPms": 3112,
+    "ReceivedAt": "2025-11-01T17:55:20.9123119+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/borders",
+    "PerformanceScore": 0.63,
+    "LCPms": 2788,
+    "ReceivedAt": "2025-11-01T17:55:20.9123126+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/guinea-franc/azure",
+    "PerformanceScore": 0.69,
+    "LCPms": 3925,
+    "ReceivedAt": "2025-11-01T17:55:20.912313+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/accounts",
+    "PerformanceScore": 0.7,
+    "LCPms": 2126,
+    "ReceivedAt": "2025-11-01T17:55:20.9123134+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/bedfordshire",
+    "PerformanceScore": 0.89,
+    "LCPms": 2456,
+    "ReceivedAt": "2025-11-01T17:55:20.9123138+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/sdd",
+    "PerformanceScore": 0.65,
+    "LCPms": 2412,
+    "ReceivedAt": "2025-11-01T17:55:20.9123141+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/dot-com/engage/sdd",
+    "PerformanceScore": 0.83,
+    "LCPms": 2326,
+    "ReceivedAt": "2025-11-01T17:55:20.9123145+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/visionary",
+    "PerformanceScore": 0.71,
+    "LCPms": 2918,
+    "ReceivedAt": "2025-11-01T17:55:20.9123148+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/buckinghamshire",
+    "PerformanceScore": 0.68,
+    "LCPms": 1770,
+    "ReceivedAt": "2025-11-01T17:55:20.9123152+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/hacking/index",
+    "PerformanceScore": 0.94,
+    "LCPms": 3680,
+    "ReceivedAt": "2025-11-01T17:55:20.9123154+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/solid-state/invoice/compress",
+    "PerformanceScore": 0.78,
+    "LCPms": 2450,
+    "ReceivedAt": "2025-11-01T17:55:20.9123159+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/payment/indexing",
+    "PerformanceScore": 0.81,
+    "LCPms": 2462,
+    "ReceivedAt": "2025-11-01T17:55:20.9123163+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/garden",
+    "PerformanceScore": 0.87,
+    "LCPms": 2081,
+    "ReceivedAt": "2025-11-01T17:55:20.9123166+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/bifurcated/multi-byte",
+    "PerformanceScore": 0.75,
+    "LCPms": 3125,
+    "ReceivedAt": "2025-11-01T17:55:20.912317+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/connecting/ergonomic-rubber-pizza",
+    "PerformanceScore": 0.8,
+    "LCPms": 3564,
+    "ReceivedAt": "2025-11-01T17:55:20.9123177+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/responsive/internal/port",
+    "PerformanceScore": 0.81,
+    "LCPms": 2819,
+    "ReceivedAt": "2025-11-01T17:55:20.912318+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/bandwidth/applications/small",
+    "PerformanceScore": 0.65,
+    "LCPms": 1960,
+    "ReceivedAt": "2025-11-01T17:55:20.9123185+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/books-movies--toys/future",
+    "PerformanceScore": 1,
+    "LCPms": 1977,
+    "ReceivedAt": "2025-11-01T17:55:20.9123189+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/china/marketing",
+    "PerformanceScore": 0.74,
+    "LCPms": 3398,
+    "ReceivedAt": "2025-11-01T17:55:20.9123193+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/e-markets/synthesize",
+    "PerformanceScore": 0.78,
+    "LCPms": 3892,
+    "ReceivedAt": "2025-11-01T17:55:20.9123197+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/deliverables",
+    "PerformanceScore": 0.99,
+    "LCPms": 2784,
+    "ReceivedAt": "2025-11-01T17:55:20.9123201+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/deposit",
+    "PerformanceScore": 0.84,
+    "LCPms": 3275,
+    "ReceivedAt": "2025-11-01T17:55:20.9123204+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/silver/blue/compelling",
+    "PerformanceScore": 0.83,
+    "LCPms": 3485,
+    "ReceivedAt": "2025-11-01T17:55:20.9123208+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/gabon/money-market-account/agent",
+    "PerformanceScore": 0.81,
+    "LCPms": 3367,
+    "ReceivedAt": "2025-11-01T17:55:20.9123211+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/plastic/ouguiya",
+    "PerformanceScore": 0.76,
+    "LCPms": 2295,
+    "ReceivedAt": "2025-11-01T17:55:20.9123216+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/orchard",
+    "PerformanceScore": 0.76,
+    "LCPms": 1811,
+    "ReceivedAt": "2025-11-01T17:55:20.9123219+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/sleek-concrete-fish",
+    "PerformanceScore": 0.83,
+    "LCPms": 2609,
+    "ReceivedAt": "2025-11-01T17:55:20.9123228+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/invoice/swedish-krona/european-unit-of-account-9e.u.a",
+    "PerformanceScore": 0.65,
+    "LCPms": 3905,
+    "ReceivedAt": "2025-11-01T17:55:20.9123231+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/crossroad/adapter",
+    "PerformanceScore": 0.66,
+    "LCPms": 1591,
+    "ReceivedAt": "2025-11-01T17:55:20.9123235+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/diverse/withdrawal/multi-byte",
+    "PerformanceScore": 0.91,
+    "LCPms": 2808,
+    "ReceivedAt": "2025-11-01T17:55:20.9123239+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/congolese-franc",
+    "PerformanceScore": 0.9,
+    "LCPms": 1988,
+    "ReceivedAt": "2025-11-01T17:55:20.9123246+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/mozambique/usb",
+    "PerformanceScore": 0.95,
+    "LCPms": 1746,
+    "ReceivedAt": "2025-11-01T17:55:20.9123249+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/security/redundant/licensed-steel-gloves",
+    "PerformanceScore": 0.62,
+    "LCPms": 3203,
+    "ReceivedAt": "2025-11-01T17:55:20.9123254+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/invoice",
+    "PerformanceScore": 0.99,
+    "LCPms": 3069,
+    "ReceivedAt": "2025-11-01T17:55:20.9123258+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/stand-alone",
+    "PerformanceScore": 0.97,
+    "LCPms": 1893,
+    "ReceivedAt": "2025-11-01T17:55:20.9123262+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/solid-state/small",
+    "PerformanceScore": 0.79,
+    "LCPms": 2371,
+    "ReceivedAt": "2025-11-01T17:55:20.9123265+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/radial/unbranded-wooden-hat",
+    "PerformanceScore": 0.8,
+    "LCPms": 3496,
+    "ReceivedAt": "2025-11-01T17:55:20.9123269+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/architectures/soft",
+    "PerformanceScore": 0.68,
+    "LCPms": 3503,
+    "ReceivedAt": "2025-11-01T17:55:20.9123273+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/european-unit-of-account-17e.u.a.-17/coherent",
+    "PerformanceScore": 0.64,
+    "LCPms": 2955,
+    "ReceivedAt": "2025-11-01T17:55:20.9123277+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/minnesota/bond-markets-units-european-composite-unit-eurco/manager",
+    "PerformanceScore": 0.73,
+    "LCPms": 2770,
+    "ReceivedAt": "2025-11-01T17:55:20.9123281+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/calculating/zloty/cross-group",
+    "PerformanceScore": 0.8,
+    "LCPms": 3867,
+    "ReceivedAt": "2025-11-01T17:55:20.9123285+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/borders",
+    "PerformanceScore": 0.99,
+    "LCPms": 3273,
+    "ReceivedAt": "2025-11-01T17:55:20.9123289+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/summit/maximize",
+    "PerformanceScore": 0.91,
+    "LCPms": 1686,
+    "ReceivedAt": "2025-11-01T17:55:20.9123293+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/lane/baby",
+    "PerformanceScore": 0.89,
+    "LCPms": 3143,
+    "ReceivedAt": "2025-11-01T17:55:20.9123296+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/pre-emptive/generating",
+    "PerformanceScore": 0.7,
+    "LCPms": 2840,
+    "ReceivedAt": "2025-11-01T17:55:20.9123301+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/avon",
+    "PerformanceScore": 0.8,
+    "LCPms": 2606,
+    "ReceivedAt": "2025-11-01T17:55:20.9123303+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/connect",
+    "PerformanceScore": 0.82,
+    "LCPms": 2137,
+    "ReceivedAt": "2025-11-01T17:55:20.9123307+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/facilitator",
+    "PerformanceScore": 0.61,
+    "LCPms": 2847,
+    "ReceivedAt": "2025-11-01T17:55:20.912331+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/matrix/ssl",
+    "PerformanceScore": 0.86,
+    "LCPms": 3961,
+    "ReceivedAt": "2025-11-01T17:55:20.9123314+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/protocol/awesome",
+    "PerformanceScore": 0.67,
+    "LCPms": 1984,
+    "ReceivedAt": "2025-11-01T17:55:20.9123318+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/generic-cotton-chair/associate",
+    "PerformanceScore": 0.68,
+    "LCPms": 1640,
+    "ReceivedAt": "2025-11-01T17:55:20.9123322+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/unbranded/integration/virtual",
+    "PerformanceScore": 0.98,
+    "LCPms": 1698,
+    "ReceivedAt": "2025-11-01T17:55:20.9123328+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/smtp",
+    "PerformanceScore": 1,
+    "LCPms": 3758,
+    "ReceivedAt": "2025-11-01T17:55:20.9123332+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/compatible/indian-rupee/director",
+    "PerformanceScore": 0.67,
+    "LCPms": 3808,
+    "ReceivedAt": "2025-11-01T17:55:20.9123335+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/thailand/back-up",
+    "PerformanceScore": 0.67,
+    "LCPms": 3540,
+    "ReceivedAt": "2025-11-01T17:55:20.9123339+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/home-loan-account",
+    "PerformanceScore": 0.7,
+    "LCPms": 3887,
+    "ReceivedAt": "2025-11-01T17:55:20.9123343+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/steel",
+    "PerformanceScore": 0.89,
+    "LCPms": 2182,
+    "ReceivedAt": "2025-11-01T17:55:20.9123346+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/personal-loan-account/customer-loyalty/squares",
+    "PerformanceScore": 0.73,
+    "LCPms": 1630,
+    "ReceivedAt": "2025-11-01T17:55:20.9123349+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/mobile/ssl",
+    "PerformanceScore": 0.93,
+    "LCPms": 2392,
+    "ReceivedAt": "2025-11-01T17:55:20.9123354+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/small/borders",
+    "PerformanceScore": 0.68,
+    "LCPms": 2315,
+    "ReceivedAt": "2025-11-01T17:55:20.9123357+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/forge/matrix",
+    "PerformanceScore": 0.87,
+    "LCPms": 2872,
+    "ReceivedAt": "2025-11-01T17:55:20.9123362+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/senior/interactions",
+    "PerformanceScore": 0.79,
+    "LCPms": 1967,
+    "ReceivedAt": "2025-11-01T17:55:20.9123365+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/usb/norway",
+    "PerformanceScore": 0.85,
+    "LCPms": 1996,
+    "ReceivedAt": "2025-11-01T17:55:20.912337+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/home-loan-account/index/bahamas",
+    "PerformanceScore": 0.92,
+    "LCPms": 2606,
+    "ReceivedAt": "2025-11-01T17:55:20.9123373+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/mauritania/ftp",
+    "PerformanceScore": 0.8,
+    "LCPms": 1659,
+    "ReceivedAt": "2025-11-01T17:55:20.9123377+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/rustic-rubber-bike",
+    "PerformanceScore": 0.76,
+    "LCPms": 1787,
+    "ReceivedAt": "2025-11-01T17:55:20.912338+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/lime/frozen/granite",
+    "PerformanceScore": 0.64,
+    "LCPms": 3030,
+    "ReceivedAt": "2025-11-01T17:55:20.9123384+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/sleek-plastic-pants/corporate/home-loan-account",
+    "PerformanceScore": 0.66,
+    "LCPms": 2022,
+    "ReceivedAt": "2025-11-01T17:55:20.9123392+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/xss/corporate/metal",
+    "PerformanceScore": 0.91,
+    "LCPms": 1602,
+    "ReceivedAt": "2025-11-01T17:55:20.9123398+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/greece",
+    "PerformanceScore": 0.83,
+    "LCPms": 2810,
+    "ReceivedAt": "2025-11-01T17:55:20.9123401+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/convergence",
+    "PerformanceScore": 0.87,
+    "LCPms": 3063,
+    "ReceivedAt": "2025-11-01T17:55:20.9123405+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/visionary",
+    "PerformanceScore": 0.78,
+    "LCPms": 3945,
+    "ReceivedAt": "2025-11-01T17:55:20.9123409+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/marketing/regional/gorgeous",
+    "PerformanceScore": 0.9,
+    "LCPms": 3778,
+    "ReceivedAt": "2025-11-01T17:55:20.9123412+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/garden--grocery",
+    "PerformanceScore": 0.6,
+    "LCPms": 3458,
+    "ReceivedAt": "2025-11-01T17:55:20.9123416+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/composite/garden-computers--music",
+    "PerformanceScore": 0.87,
+    "LCPms": 3393,
+    "ReceivedAt": "2025-11-01T17:55:20.9123421+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/haiti/assimilated/handcrafted-rubber-cheese",
+    "PerformanceScore": 0.84,
+    "LCPms": 1815,
+    "ReceivedAt": "2025-11-01T17:55:20.9123424+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/modular",
+    "PerformanceScore": 0.94,
+    "LCPms": 2115,
+    "ReceivedAt": "2025-11-01T17:55:20.9123429+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/auto-loan-account/purple/multimedia",
+    "PerformanceScore": 0.96,
+    "LCPms": 1868,
+    "ReceivedAt": "2025-11-01T17:55:20.9123432+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/hack/wooden/granite",
+    "PerformanceScore": 0.83,
+    "LCPms": 3278,
+    "ReceivedAt": "2025-11-01T17:55:20.9123437+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/china",
+    "PerformanceScore": 0.84,
+    "LCPms": 2003,
+    "ReceivedAt": "2025-11-01T17:55:20.912344+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/red/mauritius",
+    "PerformanceScore": 0.94,
+    "LCPms": 2507,
+    "ReceivedAt": "2025-11-01T17:55:20.9123444+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/nepal/gourde",
+    "PerformanceScore": 0.86,
+    "LCPms": 3714,
+    "ReceivedAt": "2025-11-01T17:55:20.9123447+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/mount",
+    "PerformanceScore": 0.64,
+    "LCPms": 3053,
+    "ReceivedAt": "2025-11-01T17:55:20.9123451+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/technician/computers",
+    "PerformanceScore": 0.78,
+    "LCPms": 2244,
+    "ReceivedAt": "2025-11-01T17:55:20.9123454+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/product/clothing-home--kids/analyst",
+    "PerformanceScore": 0.7,
+    "LCPms": 2880,
+    "ReceivedAt": "2025-11-01T17:55:20.9123459+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/macao",
+    "PerformanceScore": 0.64,
+    "LCPms": 2175,
+    "ReceivedAt": "2025-11-01T17:55:20.9123462+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/metrics/solution/monitor",
+    "PerformanceScore": 0.78,
+    "LCPms": 2731,
+    "ReceivedAt": "2025-11-01T17:55:20.9123466+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/national/out-of-the-box",
+    "PerformanceScore": 0.84,
+    "LCPms": 2085,
+    "ReceivedAt": "2025-11-01T17:55:20.9123473+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/capacitor/enhanced/overriding",
+    "PerformanceScore": 0.71,
+    "LCPms": 3636,
+    "ReceivedAt": "2025-11-01T17:55:20.9123477+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/buckinghamshire",
+    "PerformanceScore": 0.8,
+    "LCPms": 3490,
+    "ReceivedAt": "2025-11-01T17:55:20.912348+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/bypassing/sleek-frozen-chair/attitude",
+    "PerformanceScore": 0.96,
+    "LCPms": 2137,
+    "ReceivedAt": "2025-11-01T17:55:20.9123485+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/uic-franc/override",
+    "PerformanceScore": 0.7,
+    "LCPms": 3538,
+    "ReceivedAt": "2025-11-01T17:55:20.9123489+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/info-mediaries/hacking/silver",
+    "PerformanceScore": 0.96,
+    "LCPms": 3340,
+    "ReceivedAt": "2025-11-01T17:55:20.9123493+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/uganda-shilling",
+    "PerformanceScore": 0.89,
+    "LCPms": 3737,
+    "ReceivedAt": "2025-11-01T17:55:20.9123496+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/plain/home-loan-account/jersey",
+    "PerformanceScore": 0.68,
+    "LCPms": 3796,
+    "ReceivedAt": "2025-11-01T17:55:20.91235+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/center/5th-generation",
+    "PerformanceScore": 0.65,
+    "LCPms": 2910,
+    "ReceivedAt": "2025-11-01T17:55:20.9123504+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/invoice",
+    "PerformanceScore": 0.88,
+    "LCPms": 3887,
+    "ReceivedAt": "2025-11-01T17:55:20.9123508+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/agp/navigating/e-enable",
+    "PerformanceScore": 0.71,
+    "LCPms": 3039,
+    "ReceivedAt": "2025-11-01T17:55:20.9123511+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/jamaican-dollar",
+    "PerformanceScore": 0.82,
+    "LCPms": 3134,
+    "ReceivedAt": "2025-11-01T17:55:20.9123516+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/credit-card-account/international/frozen",
+    "PerformanceScore": 0.72,
+    "LCPms": 3857,
+    "ReceivedAt": "2025-11-01T17:55:20.9123519+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/utah",
+    "PerformanceScore": 0.93,
+    "LCPms": 3433,
+    "ReceivedAt": "2025-11-01T17:55:20.9123523+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/mesh/approach/credit-card-account",
+    "PerformanceScore": 0.61,
+    "LCPms": 2660,
+    "ReceivedAt": "2025-11-01T17:55:20.9123526+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/xml",
+    "PerformanceScore": 0.74,
+    "LCPms": 3137,
+    "ReceivedAt": "2025-11-01T17:55:20.9123531+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/manager/island/shoes-baby--movies",
+    "PerformanceScore": 0.68,
+    "LCPms": 3615,
+    "ReceivedAt": "2025-11-01T17:55:20.9123534+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/mission-critical/rustic-frozen-pizza",
+    "PerformanceScore": 0.78,
+    "LCPms": 3005,
+    "ReceivedAt": "2025-11-01T17:55:20.9123538+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/awesome",
+    "PerformanceScore": 0.84,
+    "LCPms": 2759,
+    "ReceivedAt": "2025-11-01T17:55:20.9123541+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/principal/fantastic-metal-chair",
+    "PerformanceScore": 0.68,
+    "LCPms": 3313,
+    "ReceivedAt": "2025-11-01T17:55:20.9123546+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/connect/cuba/redundant",
+    "PerformanceScore": 0.91,
+    "LCPms": 3366,
+    "ReceivedAt": "2025-11-01T17:55:20.912355+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/indigo",
+    "PerformanceScore": 0.7,
+    "LCPms": 3793,
+    "ReceivedAt": "2025-11-01T17:55:20.9123559+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/bypass/navigate/alarm",
+    "PerformanceScore": 0.96,
+    "LCPms": 3560,
+    "ReceivedAt": "2025-11-01T17:55:20.9123562+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/full-range/solutions/firewall",
+    "PerformanceScore": 0.66,
+    "LCPms": 1952,
+    "ReceivedAt": "2025-11-01T17:55:20.9123567+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/digital",
+    "PerformanceScore": 0.61,
+    "LCPms": 3168,
+    "ReceivedAt": "2025-11-01T17:55:20.912357+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/cohesive/explicit",
+    "PerformanceScore": 0.72,
+    "LCPms": 3828,
+    "ReceivedAt": "2025-11-01T17:55:20.9123574+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/money-market-account/mobility/revolutionary",
+    "PerformanceScore": 0.85,
+    "LCPms": 3370,
+    "ReceivedAt": "2025-11-01T17:55:20.9123577+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/online",
+    "PerformanceScore": 0.75,
+    "LCPms": 3145,
+    "ReceivedAt": "2025-11-01T17:55:20.9123582+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/nepal/monetize/compelling",
+    "PerformanceScore": 0.63,
+    "LCPms": 3510,
+    "ReceivedAt": "2025-11-01T17:55:20.9123585+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/saudi-arabia/minnesota/auto-loan-account",
+    "PerformanceScore": 0.87,
+    "LCPms": 3149,
+    "ReceivedAt": "2025-11-01T17:55:20.912359+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/tonga/avon/reboot",
+    "PerformanceScore": 0.73,
+    "LCPms": 3283,
+    "ReceivedAt": "2025-11-01T17:55:20.9123593+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/incremental/benchmark",
+    "PerformanceScore": 0.82,
+    "LCPms": 1859,
+    "ReceivedAt": "2025-11-01T17:55:20.9123598+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/cuban-peso-convertible/administrator/norway",
+    "PerformanceScore": 0.94,
+    "LCPms": 3015,
+    "ReceivedAt": "2025-11-01T17:55:20.9123601+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/relationships",
+    "PerformanceScore": 0.72,
+    "LCPms": 3446,
+    "ReceivedAt": "2025-11-01T17:55:20.9123606+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/neural",
+    "PerformanceScore": 0.83,
+    "LCPms": 1605,
+    "ReceivedAt": "2025-11-01T17:55:20.9123608+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/agp/summit/pre-emptive",
+    "PerformanceScore": 0.66,
+    "LCPms": 2679,
+    "ReceivedAt": "2025-11-01T17:55:20.9123613+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/health-movies--grocery/checking-account",
+    "PerformanceScore": 0.91,
+    "LCPms": 2246,
+    "ReceivedAt": "2025-11-01T17:55:20.9123617+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/program/brand/alaska",
+    "PerformanceScore": 1,
+    "LCPms": 2899,
+    "ReceivedAt": "2025-11-01T17:55:20.9123621+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/rich/invoice/steel",
+    "PerformanceScore": 0.91,
+    "LCPms": 3446,
+    "ReceivedAt": "2025-11-01T17:55:20.9123627+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/1080p/key/shores",
+    "PerformanceScore": 0.86,
+    "LCPms": 2970,
+    "ReceivedAt": "2025-11-01T17:55:20.9123631+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/ergonomic-granite-soap/field/cambridgeshire",
+    "PerformanceScore": 0.97,
+    "LCPms": 3039,
+    "ReceivedAt": "2025-11-01T17:55:20.9123634+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/computers",
+    "PerformanceScore": 0.97,
+    "LCPms": 3422,
+    "ReceivedAt": "2025-11-01T17:55:20.9123639+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/technician",
+    "PerformanceScore": 0.63,
+    "LCPms": 2906,
+    "ReceivedAt": "2025-11-01T17:55:20.9123642+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/concrete/user-centric",
+    "PerformanceScore": 0.99,
+    "LCPms": 3544,
+    "ReceivedAt": "2025-11-01T17:55:20.9123647+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/norwegian-krone",
+    "PerformanceScore": 0.93,
+    "LCPms": 3121,
+    "ReceivedAt": "2025-11-01T17:55:20.912365+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/synthesize",
+    "PerformanceScore": 0.76,
+    "LCPms": 2203,
+    "ReceivedAt": "2025-11-01T17:55:20.9123654+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/human/missouri/hack",
+    "PerformanceScore": 0.96,
+    "LCPms": 2655,
+    "ReceivedAt": "2025-11-01T17:55:20.9123657+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/producer/ohio/garden-electronics--beauty",
+    "PerformanceScore": 0.8,
+    "LCPms": 2258,
+    "ReceivedAt": "2025-11-01T17:55:20.9123661+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/hacking/solid-state",
+    "PerformanceScore": 0.62,
+    "LCPms": 2313,
+    "ReceivedAt": "2025-11-01T17:55:20.9123664+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/greenland",
+    "PerformanceScore": 0.7,
+    "LCPms": 2051,
+    "ReceivedAt": "2025-11-01T17:55:20.9123669+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/backing-up/awesome/brazilian-real",
+    "PerformanceScore": 0.82,
+    "LCPms": 2586,
+    "ReceivedAt": "2025-11-01T17:55:20.9123672+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/small-concrete-chicken/bus",
+    "PerformanceScore": 0.97,
+    "LCPms": 2196,
+    "ReceivedAt": "2025-11-01T17:55:20.9123677+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/red/portal/functionalities",
+    "PerformanceScore": 0.88,
+    "LCPms": 2689,
+    "ReceivedAt": "2025-11-01T17:55:20.912368+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/24365",
+    "PerformanceScore": 0.92,
+    "LCPms": 1677,
+    "ReceivedAt": "2025-11-01T17:55:20.9123685+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/incredible-soft-chips/movies-kids--jewelery/maroon",
+    "PerformanceScore": 0.85,
+    "LCPms": 3227,
+    "ReceivedAt": "2025-11-01T17:55:20.9123687+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/metal/gb/beauty-grocery--computers",
+    "PerformanceScore": 0.99,
+    "LCPms": 3256,
+    "ReceivedAt": "2025-11-01T17:55:20.9123693+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/human",
+    "PerformanceScore": 0.93,
+    "LCPms": 1544,
+    "ReceivedAt": "2025-11-01T17:55:20.9123696+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/liaison/village/transmit",
+    "PerformanceScore": 0.85,
+    "LCPms": 3116,
+    "ReceivedAt": "2025-11-01T17:55:20.9123703+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/application/rss",
+    "PerformanceScore": 0.71,
+    "LCPms": 3171,
+    "ReceivedAt": "2025-11-01T17:55:20.9123707+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/ubiquitous",
+    "PerformanceScore": 0.73,
+    "LCPms": 1581,
+    "ReceivedAt": "2025-11-01T17:55:20.9123711+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/islands/refined-metal-car/utilize",
+    "PerformanceScore": 0.88,
+    "LCPms": 2495,
+    "ReceivedAt": "2025-11-01T17:55:20.9123714+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/maine/personal-loan-account",
+    "PerformanceScore": 0.68,
+    "LCPms": 1874,
+    "ReceivedAt": "2025-11-01T17:55:20.9123718+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/grocery-kids--beauty",
+    "PerformanceScore": 0.81,
+    "LCPms": 2895,
+    "ReceivedAt": "2025-11-01T17:55:20.9123726+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/buckinghamshire/withdrawal/soft",
+    "PerformanceScore": 0.78,
+    "LCPms": 2630,
+    "ReceivedAt": "2025-11-01T17:55:20.912373+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/synthesize/rial-omani/optical",
+    "PerformanceScore": 0.85,
+    "LCPms": 1665,
+    "ReceivedAt": "2025-11-01T17:55:20.9123733+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/islands/payment/architecture",
+    "PerformanceScore": 0.85,
+    "LCPms": 1887,
+    "ReceivedAt": "2025-11-01T17:55:20.9123738+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/factors/soft/generic-plastic-pizza",
+    "PerformanceScore": 0.62,
+    "LCPms": 2005,
+    "ReceivedAt": "2025-11-01T17:55:20.9123741+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/web-enabled/small-plastic-towels/practical-metal-shirt",
+    "PerformanceScore": 0.9,
+    "LCPms": 3342,
+    "ReceivedAt": "2025-11-01T17:55:20.9123745+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/engage",
+    "PerformanceScore": 0.65,
+    "LCPms": 2880,
+    "ReceivedAt": "2025-11-01T17:55:20.9123748+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/withdrawal",
+    "PerformanceScore": 0.87,
+    "LCPms": 1759,
+    "ReceivedAt": "2025-11-01T17:55:20.9123753+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/dominica/schemas",
+    "PerformanceScore": 0.82,
+    "LCPms": 1639,
+    "ReceivedAt": "2025-11-01T17:55:20.9123756+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/operations/refined-metal-chair/cambridgeshire",
+    "PerformanceScore": 0.66,
+    "LCPms": 2656,
+    "ReceivedAt": "2025-11-01T17:55:20.912376+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/payment",
+    "PerformanceScore": 0.94,
+    "LCPms": 2205,
+    "ReceivedAt": "2025-11-01T17:55:20.9123764+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/full-range/distributed/cambridgeshire",
+    "PerformanceScore": 0.83,
+    "LCPms": 1984,
+    "ReceivedAt": "2025-11-01T17:55:20.9123768+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/down-sized/cyan",
+    "PerformanceScore": 0.79,
+    "LCPms": 2336,
+    "ReceivedAt": "2025-11-01T17:55:20.9123771+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/maryland",
+    "PerformanceScore": 0.92,
+    "LCPms": 3378,
+    "ReceivedAt": "2025-11-01T17:55:20.9123776+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/synthesize",
+    "PerformanceScore": 0.79,
+    "LCPms": 3986,
+    "ReceivedAt": "2025-11-01T17:55:20.9123782+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/tools-grocery--movies/georgia/papua-new-guinea",
+    "PerformanceScore": 0.89,
+    "LCPms": 3358,
+    "ReceivedAt": "2025-11-01T17:55:20.9123786+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/white/incredible-cotton-hat/virtual",
+    "PerformanceScore": 0.68,
+    "LCPms": 2337,
+    "ReceivedAt": "2025-11-01T17:55:20.9123789+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/compressing/wisconsin",
+    "PerformanceScore": 0.83,
+    "LCPms": 2164,
+    "ReceivedAt": "2025-11-01T17:55:20.9123794+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/solutions/application/rustic",
+    "PerformanceScore": 0.69,
+    "LCPms": 2587,
+    "ReceivedAt": "2025-11-01T17:55:20.9123797+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/practical-plastic-shirt/analyst",
+    "PerformanceScore": 0.97,
+    "LCPms": 1694,
+    "ReceivedAt": "2025-11-01T17:55:20.9123802+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/niches/alaska/internal",
+    "PerformanceScore": 0.63,
+    "LCPms": 2021,
+    "ReceivedAt": "2025-11-01T17:55:20.9123805+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/fault-tolerant/vertical",
+    "PerformanceScore": 0.88,
+    "LCPms": 3259,
+    "ReceivedAt": "2025-11-01T17:55:20.912381+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/cambridgeshire/berkshire",
+    "PerformanceScore": 0.94,
+    "LCPms": 2995,
+    "ReceivedAt": "2025-11-01T17:55:20.9123813+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/front-end/red/incredible-soft-sausages",
+    "PerformanceScore": 0.76,
+    "LCPms": 2312,
+    "ReceivedAt": "2025-11-01T17:55:20.9123817+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/utah",
+    "PerformanceScore": 0.78,
+    "LCPms": 3353,
+    "ReceivedAt": "2025-11-01T17:55:20.9123821+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/tasty-concrete-cheese/plastic",
+    "PerformanceScore": 0.75,
+    "LCPms": 3114,
+    "ReceivedAt": "2025-11-01T17:55:20.9123825+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/licensed",
+    "PerformanceScore": 0.88,
+    "LCPms": 2537,
+    "ReceivedAt": "2025-11-01T17:55:20.9123828+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/executive",
+    "PerformanceScore": 0.92,
+    "LCPms": 3120,
+    "ReceivedAt": "2025-11-01T17:55:20.9123833+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/cotton/secondary/home",
+    "PerformanceScore": 0.74,
+    "LCPms": 3235,
+    "ReceivedAt": "2025-11-01T17:55:20.9123836+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/xml",
+    "PerformanceScore": 0.95,
+    "LCPms": 1806,
+    "ReceivedAt": "2025-11-01T17:55:20.912384+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/home-loan-account/transform",
+    "PerformanceScore": 0.93,
+    "LCPms": 2507,
+    "ReceivedAt": "2025-11-01T17:55:20.9123843+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/electronics--music",
+    "PerformanceScore": 0.84,
+    "LCPms": 3036,
+    "ReceivedAt": "2025-11-01T17:55:20.9123848+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/administrator/card",
+    "PerformanceScore": 0.93,
+    "LCPms": 2779,
+    "ReceivedAt": "2025-11-01T17:55:20.9123851+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/24-hour/multimedia/customer-focused",
+    "PerformanceScore": 0.73,
+    "LCPms": 2416,
+    "ReceivedAt": "2025-11-01T17:55:20.9123859+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/auto-loan-account/bandwidth",
+    "PerformanceScore": 0.66,
+    "LCPms": 2894,
+    "ReceivedAt": "2025-11-01T17:55:20.9123863+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/mobile/point",
+    "PerformanceScore": 0.65,
+    "LCPms": 3091,
+    "ReceivedAt": "2025-11-01T17:55:20.9123867+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/missouri",
+    "PerformanceScore": 0.93,
+    "LCPms": 3255,
+    "ReceivedAt": "2025-11-01T17:55:20.912387+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/practical-cotton-keyboard/tasty-soft-table",
+    "PerformanceScore": 0.69,
+    "LCPms": 2117,
+    "ReceivedAt": "2025-11-01T17:55:20.9123874+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/throughway/awesome-steel-salad/generate",
+    "PerformanceScore": 0.9,
+    "LCPms": 2948,
+    "ReceivedAt": "2025-11-01T17:55:20.9123877+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/land/architect",
+    "PerformanceScore": 0.68,
+    "LCPms": 2079,
+    "ReceivedAt": "2025-11-01T17:55:20.9123882+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/marketing/cambridgeshire/idaho",
+    "PerformanceScore": 0.96,
+    "LCPms": 2269,
+    "ReceivedAt": "2025-11-01T17:55:20.9123885+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/netherlands/new-jersey/supervisor",
+    "PerformanceScore": 0.99,
+    "LCPms": 2587,
+    "ReceivedAt": "2025-11-01T17:55:20.9123895+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/borders/exuding",
+    "PerformanceScore": 1,
+    "LCPms": 2046,
+    "ReceivedAt": "2025-11-01T17:55:20.9123898+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/calculate",
+    "PerformanceScore": 0.68,
+    "LCPms": 3107,
+    "ReceivedAt": "2025-11-01T17:55:20.9123902+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/empowering/index",
+    "PerformanceScore": 0.75,
+    "LCPms": 2665,
+    "ReceivedAt": "2025-11-01T17:55:20.9123907+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/south-georgia-and-the-south-sandwich-islands/congo",
+    "PerformanceScore": 0.93,
+    "LCPms": 2867,
+    "ReceivedAt": "2025-11-01T17:55:20.9123911+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/tala/mission-critical",
+    "PerformanceScore": 0.8,
+    "LCPms": 3834,
+    "ReceivedAt": "2025-11-01T17:55:20.9123914+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/magenta/squares",
+    "PerformanceScore": 0.83,
+    "LCPms": 3323,
+    "ReceivedAt": "2025-11-01T17:55:20.9123919+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/dynamic",
+    "PerformanceScore": 0.97,
+    "LCPms": 2323,
+    "ReceivedAt": "2025-11-01T17:55:20.9123921+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/sms/gorgeous",
+    "PerformanceScore": 0.75,
+    "LCPms": 1929,
+    "ReceivedAt": "2025-11-01T17:55:20.9123929+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/morph/tasty-plastic-shirt",
+    "PerformanceScore": 0.71,
+    "LCPms": 1941,
+    "ReceivedAt": "2025-11-01T17:55:20.9123933+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/redefine/payment/michigan",
+    "PerformanceScore": 0.77,
+    "LCPms": 3575,
+    "ReceivedAt": "2025-11-01T17:55:20.9123937+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/deposit",
+    "PerformanceScore": 0.72,
+    "LCPms": 1852,
+    "ReceivedAt": "2025-11-01T17:55:20.9123941+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/cape-verde",
+    "PerformanceScore": 0.84,
+    "LCPms": 1857,
+    "ReceivedAt": "2025-11-01T17:55:20.9123945+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/assurance/success",
+    "PerformanceScore": 0.94,
+    "LCPms": 1944,
+    "ReceivedAt": "2025-11-01T17:55:20.9123948+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/withdrawal/liberian-dollar",
+    "PerformanceScore": 0.78,
+    "LCPms": 2910,
+    "ReceivedAt": "2025-11-01T17:55:20.9123953+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/agp/protocol",
+    "PerformanceScore": 0.72,
+    "LCPms": 1775,
+    "ReceivedAt": "2025-11-01T17:55:20.9123956+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/card/action-items/world-class",
+    "PerformanceScore": 0.8,
+    "LCPms": 3552,
+    "ReceivedAt": "2025-11-01T17:55:20.9123961+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/money-market-account/savings-account/reboot",
+    "PerformanceScore": 0.73,
+    "LCPms": 2043,
+    "ReceivedAt": "2025-11-01T17:55:20.9123965+02:00"
+  },
+  {
+    "Date": "2025-10-26",
+    "Page": "/harbor/nebraska/withdrawal",
+    "PerformanceScore": 0.86,
+    "LCPms": 2824,
+    "ReceivedAt": "2025-11-01T17:55:20.912397+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/interface/primary",
+    "PerformanceScore": 0.71,
+    "LCPms": 2541,
+    "ReceivedAt": "2025-11-01T17:55:20.9123973+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/cambridgeshire/payment/money-market-account",
+    "PerformanceScore": 0.81,
+    "LCPms": 1602,
+    "ReceivedAt": "2025-11-01T17:55:20.9123979+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/applications/dynamic",
+    "PerformanceScore": 0.74,
+    "LCPms": 2043,
+    "ReceivedAt": "2025-11-01T17:55:20.9123982+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/electronics/utah/orchestrate",
+    "PerformanceScore": 0.74,
+    "LCPms": 2717,
+    "ReceivedAt": "2025-11-01T17:55:20.9123987+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/css/home-loan-account/hollow",
+    "PerformanceScore": 0.82,
+    "LCPms": 2865,
+    "ReceivedAt": "2025-11-01T17:55:20.912399+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/kenya",
+    "PerformanceScore": 0.78,
+    "LCPms": 1747,
+    "ReceivedAt": "2025-11-01T17:55:20.9123995+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/dynamic/navigating/interface",
+    "PerformanceScore": 0.63,
+    "LCPms": 1965,
+    "ReceivedAt": "2025-11-01T17:55:20.9123997+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/dam",
+    "PerformanceScore": 0.8,
+    "LCPms": 2585,
+    "ReceivedAt": "2025-11-01T17:55:20.9124002+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/override",
+    "PerformanceScore": 0.63,
+    "LCPms": 3048,
+    "ReceivedAt": "2025-11-01T17:55:20.9124005+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/rubber/solutions/matrix",
+    "PerformanceScore": 0.81,
+    "LCPms": 3417,
+    "ReceivedAt": "2025-11-01T17:55:20.9124009+02:00"
+  },
+  {
+    "Date": "2025-10-29",
+    "Page": "/synergized/red/framework",
+    "PerformanceScore": 0.66,
+    "LCPms": 2062,
+    "ReceivedAt": "2025-11-01T17:55:20.9124013+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/centers/service-desk/cuban-peso-convertible",
+    "PerformanceScore": 0.62,
+    "LCPms": 2505,
+    "ReceivedAt": "2025-11-01T17:55:20.9124018+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/back-up/director/wireless",
+    "PerformanceScore": 0.96,
+    "LCPms": 2227,
+    "ReceivedAt": "2025-11-01T17:55:20.9124021+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/vertical/via/intelligent",
+    "PerformanceScore": 0.82,
+    "LCPms": 3350,
+    "ReceivedAt": "2025-11-01T17:55:20.9124026+02:00"
+  },
+  {
+    "Date": "2025-10-24",
+    "Page": "/incubate",
+    "PerformanceScore": 0.71,
+    "LCPms": 1708,
+    "ReceivedAt": "2025-11-01T17:55:20.9124029+02:00"
+  },
+  {
+    "Date": "2025-10-30",
+    "Page": "/practical-concrete-car/explicit",
+    "PerformanceScore": 0.81,
+    "LCPms": 2770,
+    "ReceivedAt": "2025-11-01T17:55:20.9124033+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/monitor/primary/incredible-rubber-soap",
+    "PerformanceScore": 0.88,
+    "LCPms": 2153,
+    "ReceivedAt": "2025-11-01T17:55:20.9124036+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/rubber/gorgeous-wooden-fish/chief",
+    "PerformanceScore": 0.84,
+    "LCPms": 3532,
+    "ReceivedAt": "2025-11-01T17:55:20.9124041+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/benchmark/uruguay/primary",
+    "PerformanceScore": 0.6,
+    "LCPms": 2005,
+    "ReceivedAt": "2025-11-01T17:55:20.9124044+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/future/lake",
+    "PerformanceScore": 0.9,
+    "LCPms": 1731,
+    "ReceivedAt": "2025-11-01T17:55:20.9124048+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/home-loan-account/rwanda/connecting",
+    "PerformanceScore": 0.94,
+    "LCPms": 2706,
+    "ReceivedAt": "2025-11-01T17:55:20.9124052+02:00"
+  },
+  {
+    "Date": "2025-10-22",
+    "Page": "/grey/synthesizing",
+    "PerformanceScore": 0.92,
+    "LCPms": 2726,
+    "ReceivedAt": "2025-11-01T17:55:20.9124056+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/hardware/wireless/berkshire",
+    "PerformanceScore": 0.86,
+    "LCPms": 2532,
+    "ReceivedAt": "2025-11-01T17:55:20.9124064+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/overriding",
+    "PerformanceScore": 0.64,
+    "LCPms": 3056,
+    "ReceivedAt": "2025-11-01T17:55:20.9124069+02:00"
+  },
+  {
+    "Date": "2025-10-28",
+    "Page": "/orchestrate/lights",
+    "PerformanceScore": 0.74,
+    "LCPms": 3001,
+    "ReceivedAt": "2025-11-01T17:55:20.9124072+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/plastic/beauty-electronics--automotive",
+    "PerformanceScore": 0.89,
+    "LCPms": 2824,
+    "ReceivedAt": "2025-11-01T17:55:20.9124077+02:00"
+  },
+  {
+    "Date": "2025-11-01",
+    "Page": "/clothing-music--tools",
+    "PerformanceScore": 0.98,
+    "LCPms": 3481,
+    "ReceivedAt": "2025-11-01T17:55:20.9124081+02:00"
+  },
+  {
+    "Date": "2025-10-25",
+    "Page": "/meadow",
+    "PerformanceScore": 0.67,
+    "LCPms": 3283,
+    "ReceivedAt": "2025-11-01T17:55:20.9124086+02:00"
+  },
+  {
+    "Date": "2025-10-27",
+    "Page": "/savings-account/maximize",
+    "PerformanceScore": 0.63,
+    "LCPms": 3838,
+    "ReceivedAt": "2025-11-01T17:55:20.9124089+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/dynamic/licensed-cotton-tuna",
+    "PerformanceScore": 0.71,
+    "LCPms": 1769,
+    "ReceivedAt": "2025-11-01T17:55:20.9124094+02:00"
+  },
+  {
+    "Date": "2025-10-31",
+    "Page": "/architect/3rd-generation",
+    "PerformanceScore": 0.63,
+    "LCPms": 2368,
+    "ReceivedAt": "2025-11-01T17:55:20.9124097+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/upward-trending",
+    "PerformanceScore": 0.77,
+    "LCPms": 3626,
+    "ReceivedAt": "2025-11-01T17:55:20.9124101+02:00"
+  },
+  {
+    "Date": "2025-10-23",
+    "Page": "/specialist/bedfordshire",
+    "PerformanceScore": 0.63,
+    "LCPms": 3226,
+    "ReceivedAt": "2025-11-01T17:55:20.9124104+02:00"
+  }
+]
