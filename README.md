@@ -1,4 +1,4 @@
-# Queuelytics – Web Analytics Data Aggregator
+# Queuelytics – API Analytics Data Aggregator
 
 [![.NET](https://img.shields.io/badge/.NET-8-blue)](https://dotnet.microsoft.com/)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-2019-blue)](https://www.microsoft.com/en-us/sql-server)
