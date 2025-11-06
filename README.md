@@ -104,3 +104,8 @@ Learned to structure a small project with Clean Architecture while keeping every
 ✅ Conclusion
 
 Queuelytics may have been a “small” task, but it was packed with real-world backend challenges. It gave me hands-on experience with orchestration, messaging, caching, and secure API design — a perfect mini-project to demonstrate solid backend skills.
+
+--
+
+## ✨ Author
+Developed by Mustafa Hassaan
