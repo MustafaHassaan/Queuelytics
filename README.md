@@ -54,7 +54,8 @@ Queuelytics was a small project full of real-world backend challenges. It gave m
 
 ### 1. Step 1 
        Open Terminal Project Path And Build Docker containers
-       docker compose up --build
+       docker compose build --no-cache
+       docker compose up
        
 ### 2. Step 2
        Select Infrastructure From Package Manager Console And Sign Update-database
