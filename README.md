@@ -1,4 +1,4 @@
-# Queuelytics – Web Analytics Data Aggregator
+# Queuelytics
 
 [![.NET](https://img.shields.io/badge/.NET-8-blue)](https://dotnet.microsoft.com/)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-2019-blue)](https://www.microsoft.com/en-us/sql-server)
@@ -6,7 +6,8 @@
 [![Redis](https://img.shields.io/badge/Redis-7-red)](https://redis.io/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-**A compact but challenging backend system built with .NET 8, RabbitMQ, Redis, and SQL Server, designed to read, aggregate, and report analytics data from multiple sources.**
+**A Web Analytics Data Aggregator built for the CodeQuests .NET Challenge.**  
+Queuelytics collects analytics data from multiple sources (GA + PSI), publishes it to **RabbitMQ**, consumes and aggregates daily metrics, and exposes summarized reports through a secure REST API.
 
 ---
 
