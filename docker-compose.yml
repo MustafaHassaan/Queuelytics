@@ -1,4 +1,7 @@
 ﻿services:
+  # ======================
+  # SQL Server
+  # ======================
   sqlserver:
     image: mcr.microsoft.com/mssql/server:2022-latest
     container_name: sqlserver
@@ -7,9 +10,20 @@
     environment:
       SA_PASSWORD: "QDb2025!"
       ACCEPT_EULA: "Y"
+    healthcheck:
+      test: ["CMD-SHELL", "/opt/mssql-tools18/bin/sqlcmd -S localhost -U sa -P 'QDb2025!' -Q 'SELECT 1' -C -b"]
+      interval: 10s
+      timeout: 5s
+      retries: 30
+      start_period: 30s
     networks:
       - app-net
+    volumes:
+      - sqlserver-data:/var/opt/mssql
 
+  # ======================
+  # RabbitMQ
+  # ======================
   rabbitmq:
     image: rabbitmq:3-management
     container_name: rabbitmq
@@ -18,47 +32,82 @@
       - "15672:15672"
     environment:
       RABBITMQ_DEFAULT_USER: qualytics
-      RABBITMQ_DEFAULT_PASS: 123456
+      RABBITMQ_DEFAULT_PASS: "123456"
     healthcheck:
-      test: ["CMD", "rabbitmqctl", "status"]
+      test: ["CMD", "rabbitmq-diagnostics", "ping"]
       interval: 10s
-      timeout: 10s
-      retries: 5
+      timeout: 5s
+      retries: 10
+      start_period: 30s
     networks:
       - app-net
+    volumes:
+      - rabbitmq-data:/var/lib/rabbitmq
 
+  # ======================
+  # Redis
+  # ======================
   redis:
     image: redis:latest
     container_name: redis
     ports:
       - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
     networks:
       - app-net
+    volumes:
+      - redis-data:/data
 
+  # ======================
+  # API
+  # ======================
   qualytics-api:
     build:
       context: .
       dockerfile: API/Dockerfile
     container_name: qualytics-api
     depends_on:
+      sqlserver:
+        condition: service_healthy
       rabbitmq:
         condition: service_healthy
       redis:
-        condition: service_started
+        condition: service_healthy
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8080
+      - ASPNETCORE_URLS=http://+:8080
+      - ConnectionStrings__DefaultConnection=Server=sqlserver;Database=QualyticsDb;User Id=sa;Password=QDb2025!;TrustServerCertificate=True;Encrypt=False;MultipleActiveResultSets=True;
       - RabbitMQ__HostName=rabbitmq
       - RabbitMQ__UserName=qualytics
       - RabbitMQ__Password=123456
+      - Redis__Configuration=redis:6379
     ports:
       - "8080:8080"
-      - "8081:8081"
     networks:
       - app-net
     volumes:
-      - ./Shared/Data:/Shared/Data
+      - ./Shared/Data:/app/Data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
 
+# ======================
+# Networks & Volumes
+# ======================
 networks:
   app-net:
     driver: bridge
-  
+
+volumes:
+  sqlserver-data:
+  rabbitmq-data:
+  redis-data:

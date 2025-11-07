@@ -1,42 +1,42 @@
 ﻿# ========================
-# 1. Base Runtime Image
-# ========================
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
-WORKDIR /app
-EXPOSE 8080
-EXPOSE 8081
-
-# ========================
-# 2. Build Image
+# Build & Publish Stage
 # ========================
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 
-# 👇 لو المشروع داخل مجلد اسمه API
+# Copy ALL project files (including ConsumerService & ProducerService)
 COPY ["API/API.csproj", "API/"]
+COPY ["Application/Application.csproj", "Application/"]
+COPY ["Domain/Domain.csproj", "Domain/"]
+COPY ["Infrastructure/Infrastructure.csproj", "Infrastructure/"]
+COPY ["Shared/Shared.csproj", "Shared/"]
+COPY ["ConsumerService/ConsumerService.csproj", "ConsumerService/"]
+COPY ["ProducerService/ProducerService.csproj", "ProducerService/"]
+
+# Restore
 RUN dotnet restore "API/API.csproj"
 
-# 👇 انسخ كل الكود
-COPY . .
+# Copy ALL source code
+COPY API/ API/
+COPY Application/ Application/
+COPY Domain/ Domain/
+COPY Infrastructure/ Infrastructure/
+COPY Shared/ Shared/
+COPY ConsumerService/ ConsumerService/
+COPY ProducerService/ ProducerService/
 
+# Publish API
 WORKDIR "/src/API"
-RUN dotnet build "API.csproj" -c $BUILD_CONFIGURATION -o /app/build
+RUN dotnet publish "API.csproj" -c Release -o /app/publish /p:UseAppHost=false
 
 # ========================
-# 3. Publish Image
-# ========================
-FROM build AS publish
-ARG BUILD_CONFIGURATION=Release
-RUN dotnet publish "API.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
-
-# ========================
-# 4. Final Runtime Image
+# Runtime Stage
 # ========================
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
 
-# 👇 انسخ الملفات المنشورة من المرحلة السابقة
-COPY --from=publish /app/publish .
-COPY Shared/Data /app/Data
+COPY --from=build /app/publish .
+
+EXPOSE 8080
+
 ENTRYPOINT ["dotnet", "API.dll"]

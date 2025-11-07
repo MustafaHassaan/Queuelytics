@@ -35,8 +35,10 @@ namespace ProducerService.Analytics
         {
             _logger.LogInformation("ProducerService started.");
 
-            var gaData = JsonSerializer.Deserialize<List<GARecord>>(await File.ReadAllTextAsync("../Shared/Data/GAData.json"));
-            var psiData = JsonSerializer.Deserialize<List<PSIRecord>>(await File.ReadAllTextAsync("../Shared/Data/PSIData.json"));
+            var gaJson = await File.ReadAllTextAsync(Path.Combine(Directory.GetCurrentDirectory(), "Data", "GAData.json"));
+            var psiJson = await File.ReadAllTextAsync(Path.Combine(Directory.GetCurrentDirectory(), "Data", "PSIData.json"));
+            var gaData = JsonSerializer.Deserialize<List<GARecord>>(gaJson);
+            var psiData = JsonSerializer.Deserialize<List<PSIRecord>>(psiJson);
 
             var combined = from ga in gaData
                            join psi in psiData

@@ -149,6 +149,81 @@ namespace API
             app.MapControllers();
 
             app.Run();
+
+            // =====================================
+            // Migration Helper Function
+            // =====================================
+            static async Task ApplyMigrationsAsync(IServiceProvider services)
+            {
+                const int maxRetries = 30;
+                const int delaySeconds = 3;
+
+                Console.WriteLine("========================================");
+                Console.WriteLine("🔄 Starting Database Migration Process");
+                Console.WriteLine("========================================");
+
+                for (int attempt = 1; attempt <= maxRetries; attempt++)
+                {
+                    try
+                    {
+                        using var scope = services.CreateScope();
+                        var context = scope.ServiceProvider.GetRequiredService<QualyticsDbContext>();
+
+                        Console.WriteLine($"[{attempt}/{maxRetries}] 🔍 Checking database connection...");
+
+                        // Test connection
+                        var canConnect = await context.Database.CanConnectAsync();
+
+                        if (canConnect)
+                        {
+                            Console.WriteLine($"[{attempt}/{maxRetries}] ✅ Database connection successful!");
+
+                            // Get pending migrations
+                            var pendingMigrations = await context.Database.GetPendingMigrationsAsync();
+                            var pendingCount = pendingMigrations.Count();
+
+                            if (pendingCount > 0)
+                            {
+                                Console.WriteLine($"[{attempt}/{maxRetries}] 🔄 Found {pendingCount} pending migration(s)");
+                                Console.WriteLine($"[{attempt}/{maxRetries}] 🔄 Applying migrations...");
+
+                                await context.Database.MigrateAsync();
+
+                                Console.WriteLine($"[{attempt}/{maxRetries}] ✅ Migrations applied successfully!");
+                            }
+                            else
+                            {
+                                Console.WriteLine($"[{attempt}/{maxRetries}] ✅ Database is up to date (no pending migrations)");
+                            }
+
+                            Console.WriteLine("========================================");
+                            Console.WriteLine("✅ Migration Process Completed");
+                            Console.WriteLine("========================================");
+                            return;
+                        }
+                        else
+                        {
+                            Console.WriteLine($"[{attempt}/{maxRetries}] ⚠️  Cannot connect to database");
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"[{attempt}/{maxRetries}] ❌ Error: {ex.Message}");
+
+                        if (attempt == maxRetries)
+                        {
+                            Console.WriteLine("========================================");
+                            Console.WriteLine("❌ Migration Failed After All Retries");
+                            Console.WriteLine("⚠️  Application will start without migrations");
+                            Console.WriteLine("========================================");
+                            return;
+                        }
+                    }
+
+                    Console.WriteLine($"[{attempt}/{maxRetries}] ⏳ Retrying in {delaySeconds} seconds...");
+                    await Task.Delay(TimeSpan.FromSeconds(delaySeconds));
+                }
+            }
         }
     }
 }
